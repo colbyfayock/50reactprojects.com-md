@@ -1,0 +1,78 @@
+---
+title: 'Analytics'
+layout: 'project'
+topic: 'Project Add-Ons'
+description: 'Add Google Analytics to your webpage to analyze web traffic and performance.'
+---
+
+
+
+<ProjectHeader>
+
+# Analytics
+
+Add <strong className="color-blue">Google Analytics</strong> to your webpage to analyze <strong className="color-purple">web traffic</strong> and <strong className="color-purple">performance</strong>.
+
+</ProjectHeader>
+
+<ProjectContent>
+
+## Brief
+
+Adding analytics to your website or application isn’t just about tracking people’s every move, it’s about trying to understand how people use your site. What pages do people use the most? Where are the biggest pain points?
+
+## Level 1
+
+Google Analytics (GA) is a free tool from Google that lets you  analyze your web traffic. It lets you see what pages people are visiting, where they’re visiting from, and what devices they’re using so you can better understand your traffic.
+
+Create a Google Analytics account and add the Javascript snippet to your website or application.
+
+<LoginRequired>
+
+## Level 2
+
+While you get a lot of information by default, there are other features in GA that allow you to collect more tailored data. Custom Dimensions let you define your own data points that you can use for things like the category of a blog post.
+
+Create custom dimensions in Google Analytics and capture them along with the GA snippet.
+
+## Level 3
+
+GA tracks all traffic — meaning web crawlers and wrong capitalization of URLs. We can use filters in Google analytics to clean those up.
+
+Add basic filters to maintain consistent data in GA.
+
+</LoginRequired>
+
+</ProjectContent>
+
+<ProjectSidebar>
+
+## To Do
+
+<Checklist checkable={false} items={[
+  {
+    label: 'Create GA account',
+  },
+  {
+    label: 'Add Javascript snippet',
+  },
+  {
+    label: 'Add custom dimensions',
+  },
+  {
+    label: 'Capture custom data',
+  },
+  {
+    label: 'Add data filters',
+  }
+]} />
+
+## Toolbox
+- Google Analytics
+- Custom Dimensions (GA)
+- Filters (GA)
+
+## Resources
+- [bit.ly/33dpW3E](https://bit.ly/33dpW3E)
+
+</ProjectSidebar>

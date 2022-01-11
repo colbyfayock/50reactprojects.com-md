@@ -1,0 +1,81 @@
+---
+title: 'Code Stats'
+layout: 'project'
+topic: 'Project Add-Ons'
+description: 'Add your GitHub profile’s top projects and stats to a website.'
+---
+
+
+
+<ProjectHeader>
+
+# Code Stats
+
+Add your <strong className="color-blue">GitHub</strong> profile’s <strong className="color-purple">top projects</strong> and <strong className="color-purple">stats</strong> to a website.
+
+</ProjectHeader>
+
+<ProjectContent>
+
+## Brief
+
+Working on Open Source is a great way to give back to the community, but it’s also a great way to show potential employers examples of your work. But empoyers won’t always try to find all of your profiles, instead maybe just looking at your personal website and blog.
+
+## Level 1
+
+One way to show this is by adding a list of your top projects. This helps show what type of high level projects you’ve helped contribute to or maybe a popular one you made.
+
+Add a list of your top projects on Github to a website with the number of stars using the Github API.
+
+<LoginRequired>
+
+## Level 2
+
+Adding the number of stars is good from a perspective of knowing how many people liked a project, but what about the languages used? That can help show experience to the tools and languages you’ve used on projects.
+
+Add a list of your project programming languages to a website and try to add them in order of most common.
+
+## Level 3
+
+There are also some other fun stats that you can find, like the all time number of commits you made.
+
+Add some fun code stats like how many commits you’ve pushed to Github.
+
+</LoginRequired>
+
+</ProjectContent>
+
+<ProjectSidebar>
+
+## To Do
+
+<Checklist checkable={false} items={[
+  {
+    label: 'Discover Github API',
+  },
+  {
+    label: 'Add top projects',
+  },
+  {
+    label: 'Add number of stars',
+  },
+  {
+    label: 'Add common languages',
+  },
+  {
+    label: 'Sort project languages',
+  },
+  {
+    label: 'Add code stats',
+  }
+]} />
+
+## Toolbox
+- Github REST API
+- Github GraphQL API
+- Postman
+
+## Resources
+- [bit.ly/2XBDdPN](https://bit.ly/2XBDdPN)
+
+</ProjectSidebar>
