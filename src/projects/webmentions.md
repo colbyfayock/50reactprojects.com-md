@@ -1,13 +1,8 @@
 ---
 title: 'Webmentions'
-layout: 'project'
 topic: 'Project Add-Ons'
 description: 'Add webmentions integration to a website that shows Twitter interactions with the website'
 ---
-
-
-# Webmentions
-
 Add <strong className="color-blue">webmentions</strong> integration to a website that shows <strong className="color-purple">Twitter interactions</strong> with the website
 
 ## Brief

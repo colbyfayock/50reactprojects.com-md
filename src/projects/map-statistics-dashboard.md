@@ -1,13 +1,8 @@
 ---
 title: 'Map Statistics Dashboard'
-layout: 'project'
 topic: 'Business & Real-World'
 description: 'Create a map dashboard that shows statistics and geographic information about COVID-19.'
 ---
-
-
-# Map Statistics Dashboard
-
 Create a <strong className="color-blue">map dashboard</strong> that shows statistics and geographic information about <strong className="color-purple">COVID-19</strong>.
 
 ## Brief

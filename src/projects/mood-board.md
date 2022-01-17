@@ -1,13 +1,8 @@
 ---
 title: 'Mood Board'
-layout: 'project'
 topic: 'Productivity'
 description: 'Create a mood board to upload images and add notes for project inspiration.'
 ---
-
-
-# Mood Board
-
 Create a <strong className="color-blue">mood board</strong> to upload images and add notes for <strong className="color-purple">project inspiration</strong>.
 
 ## Brief

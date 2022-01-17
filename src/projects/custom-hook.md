@@ -1,13 +1,8 @@
 ---
 title: 'Custom Hook'
-layout: 'project'
 topic: 'Tools & Libraries'
 description: 'Create a custom hook that allows you to fetch the movies from the Lord of the Rings API.'
 ---
-
-
-# Custom Hook
-
 Create a <strong className="color-blue">custom hook</strong> that allows you to fetch the <strong className="color-purple">movies</strong> from the <strong className="color-purple">Lord of the Rings API</strong>.
 
 ## Brief

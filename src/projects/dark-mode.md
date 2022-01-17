@@ -1,13 +1,8 @@
 ---
 title: 'Dark Mode'
-layout: 'project'
 topic: 'Project Add-Ons'
 description: 'Add an option to toggle between dark mode and light mode on a website or app.'
 ---
-
-
-# Dark Mode
-
 Add an option to toggle between <strong className="color-blue">dark mode</strong> and <strong className="color-blue">light mode</strong> on a <strong className="color-purple">website</strong> or <strong className="color-purple">app</strong>.
 
 ## Brief

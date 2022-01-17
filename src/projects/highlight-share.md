@@ -1,13 +1,8 @@
 ---
 title: 'Highlight & Share'
-layout: 'project'
 topic: 'Project Add-Ons'
 description: 'Add a highlight and share feature that shows a share button when someone highlights text.'
 ---
-
-
-# Highlight & Share
-
 Add a <strong className="color-blue">highlight and share</strong> feature that shows a <strong className="color-purple">share button</strong> when someone <strong className="color-purple">highlights text</strong>.
 
 ## Brief

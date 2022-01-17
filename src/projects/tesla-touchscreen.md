@@ -1,13 +1,8 @@
 ---
 title: 'Tesla Touchscreen'
-layout: 'project'
 topic: 'Clones'
 description: 'Create a Tesla touchscreen UI clone that allows someone to control simulated car features.'
 ---
-
-
-# Tesla Touchscreen
-
 Create a <strong className="color-blue">Tesla touchscreen UI</strong> clone that allows someone to <strong className="color-purple">control simulated car features</strong>.
 
 ## Brief

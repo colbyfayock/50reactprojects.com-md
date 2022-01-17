@@ -1,13 +1,8 @@
 ---
 title: 'Ecommerce Store'
-layout: 'project'
 topic: 'Business & Real-World'
 description: 'Create an online store where you can buy video games and fan gear.'
 ---
-
-
-# Ecommerce Store
-
 Create an <strong className="color-blue">online store</strong> where you can buy <strong className="color-purple">video games</strong> and <strong className="color-purple">fan gear</strong>.
 
 ## Brief

@@ -1,13 +1,8 @@
 ---
 title: 'Blog'
-layout: 'project'
 topic: 'Personal & Portfolio'
 description: 'Create a blog that you can use to share your career experiences and projects.'
 ---
-
-
-# Blog
-
 Create a <strong className="color-blue">blog</strong> that you can use to share your <strong className="color-purple">career experiences</strong> and <strong className="color-purple">projects</strong>.
 
 ## Brief

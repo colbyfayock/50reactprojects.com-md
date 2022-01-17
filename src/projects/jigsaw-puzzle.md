@@ -1,13 +1,8 @@
 ---
 title: 'Jigsaw Puzzle'
-layout: 'project'
 topic: 'Games & Puzzles'
 description: 'Create an interactive jigsaw puzzle game that lets someone fit pieces to solve.'
 ---
-
-
-# Jigsaw Puzzle
-
 Create an interactive <strong className="color-blue">jigsaw puzzle</strong> game that lets someone <strong className="color-purple">fit pieces</strong> to solve.
 
 ## Brief

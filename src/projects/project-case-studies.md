@@ -1,13 +1,8 @@
 ---
 title: 'Project Case Studies'
-layout: 'project'
 topic: 'Personal & Portfolio'
 description: 'Create a list of projects that include case studies and details about the project.'
 ---
-
-
-# Project Case Studies
-
 Create a <strong className="color-blue">list of projects</strong> that include <strong className="color-purple">case studies</strong> and <strong className="color-purple">details</strong> about the project.
 
 ## Brief

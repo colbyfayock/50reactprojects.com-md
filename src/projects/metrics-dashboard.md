@@ -1,13 +1,8 @@
 ---
 title: 'Metrics Dashboard'
-layout: 'project'
 topic: 'Business & Real-World'
 description: 'Create an analytics dashboard that shows historical performance of tech stocks.'
 ---
-
-
-# Metrics Dashboard
-
 Create an <strong className="color-blue">analytics dashboard</strong> that shows <strong className="color-purple">historical performance</strong> of <strong className="color-purple">tech stocks</strong>.
 
 ## Brief

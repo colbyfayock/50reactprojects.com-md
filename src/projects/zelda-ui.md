@@ -5,11 +5,7 @@ topic: Clones
 description: Create a Zelda Breath of the Wild game UI clone that lets someone select
   items.
 
----
-
-# Zelda UI
-
-Create a <strong className="color-blue">Zelda Breath of the Wild game UI</strong> clone that lets someone <strong className="color-purple">select items</strong>.
+---Create a <strong className="color-blue">Zelda Breath of the Wild game UI</strong> clone that lets someone <strong className="color-purple">select items</strong>.
 
 ## Brief
 

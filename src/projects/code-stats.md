@@ -1,13 +1,8 @@
 ---
 title: 'Code Stats'
-layout: 'project'
 topic: 'Project Add-Ons'
 description: 'Add your GitHub profile’s top projects and stats to a website.'
 ---
-
-
-# Code Stats
-
 Add your <strong className="color-blue">GitHub</strong> profile’s <strong className="color-purple">top projects</strong> and <strong className="color-purple">stats</strong> to a website.
 
 ## Brief

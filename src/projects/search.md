@@ -1,13 +1,8 @@
 ---
 title: 'Search'
-layout: 'project'
 topic: 'Project Add-Ons'
 description: 'Add a search form and results page to a website or app.'
 ---
-
-
-# Search
-
 Add a <strong className="color-blue">search form</strong> and <strong className="color-blue">results page</strong> to a <strong className="color-purple">website</strong> or <strong className="color-purple">app</strong>.
 
 ## Brief

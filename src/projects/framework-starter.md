@@ -1,13 +1,8 @@
 ---
 title: 'Framework Starter'
-layout: 'project'
 topic: 'Tools & Libraries'
 description: 'Create a Next.js starter that scaffolds a new blog app automatically.'
 ---
-
-
-# Framework Starter
-
 Create a <strong className="color-blue">Next.js starter</strong> that scaffolds a new <strong className="color-purple">blog app</strong> automatically.
 
 ## Brief

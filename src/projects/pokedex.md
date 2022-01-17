@@ -1,13 +1,8 @@
 ---
 title: 'Pokédex'
-layout: 'project'
 topic: 'Fun & Interesting'
 description: 'Create a Pokédex that shows a list of all Pokémon with links to stats of each Pokémon.'
 ---
-
-
-# Pokédex
-
 Create a <strong className="color-blue">Pokédex</strong> that shows a list of all <strong className="color-purple">Pokémon</strong> with links to <strong className="color-purple">stats</strong> of each <strong className="color-purple">Pokémon</strong>.
 
 ## Brief

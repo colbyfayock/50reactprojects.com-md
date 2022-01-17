@@ -1,13 +1,8 @@
 ---
 title: 'Newsletter'
-layout: 'project'
 topic: 'Personal & Portfolio'
 description: 'Create a personal newsletter and add a subscribe form to your website.'
 ---
-
-
-# Newsletter
-
 Create a <strong className="color-blue">personal newsletter</strong> and add a <strong className="color-purple">subscribe form</strong> to your website.
 
 ## Brief

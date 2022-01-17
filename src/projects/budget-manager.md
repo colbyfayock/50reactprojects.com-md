@@ -1,13 +1,8 @@
 ---
 title: 'Budget Manager'
-layout: 'project'
 topic: 'Productivity'
 description: 'Create a budget manager to track and manage finances and expenses.'
 ---
-
-
-# Budget Manager
-
 Create a <strong className="color-blue">budget manager</strong> to track and manage <strong className="color-purple">finances</strong> and <strong className="color-purple">expenses</strong>.
 
 ## Brief

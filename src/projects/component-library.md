@@ -1,13 +1,8 @@
 ---
 title: 'Component Library'
-layout: 'project'
 topic: 'Tools & Libraries'
 description: 'Create a component library for an online music, video games, and movies store.'
 ---
-
-
-# Component Library
-
 Create a <strong className="color-blue">component library</strong> for an online <strong className="color-purple">music</strong>, <strong className="color-purple">video games</strong>, and <strong className="color-purple">movies</strong> store.
 
 ## Brief

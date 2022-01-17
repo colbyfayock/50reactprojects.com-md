@@ -1,13 +1,8 @@
 ---
 title: 'Fan Wiki'
-layout: 'project'
 topic: 'Fun & Interesting'
 description: 'Create a fan wiki that includes all characters of Futurama or your favorite TV show or movie.'
 ---
-
-
-# Fan Wiki
-
 Create a <strong className="color-blue">fan wiki</strong> that includes all characters of <strong className="color-purple">Futurama</strong> or your favorite <strong className="color-purple">TV show</strong> or <strong className="color-purple">movie</strong>.
 
 ## Brief

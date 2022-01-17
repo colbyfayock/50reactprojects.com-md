@@ -1,13 +1,8 @@
 ---
 title: 'Musical Instrument'
-layout: 'project'
 topic: 'Fun & Interesting'
 description: 'Create an interactive piano that you can use to play music with your keyboard.'
 ---
-
-
-# Musical Instrument
-
 Create an <strong className="color-blue">interactive piano</strong> that you can use to play music with your <strong className="color-purple">keyboard</strong>.
 
 ## Brief

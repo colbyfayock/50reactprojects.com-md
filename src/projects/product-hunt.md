@@ -1,13 +1,8 @@
 ---
 title: 'Product Hunt'
-layout: 'project'
 topic: 'Clones'
 description: 'Create a Product Hunt clone that lets people post a new product with ratings.'
 ---
-
-
-# Product Hunt
-
 Create a <strong className="color-blue">Product Hunt</strong> clone that lets people <strong className="color-purple">post a new product with ratings</strong>.
 
 ## Brief

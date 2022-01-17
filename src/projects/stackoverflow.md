@@ -1,13 +1,8 @@
 ---
 title: 'StackOverflow'
-layout: 'project'
 topic: 'Clones'
 description: 'Create a StackOverflow clone allowing questions and answers with code snippets.'
 ---
-
-
-# StackOverflow
-
 Create a <strong className="color-blue">StackOverflow</strong> clone allowing <strong className="color-purple">questions and answers</strong> with code snippets.
 
 ## Brief

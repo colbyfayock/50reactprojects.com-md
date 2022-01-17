@@ -1,13 +1,8 @@
 ---
 title: 'Custom GitHub Action'
-layout: 'project'
 topic: 'Tools & Libraries'
 description: 'Create a custom GitHub Action that notifies Slack with pull request updates.'
 ---
-
-
-# Custom GitHub Action
-
 Create a custom <strong className="color-blue">GitHub Action</strong> that notifies <strong className="color-purple">Slack</strong> with <strong className="color-purple">pull request updates</strong>.
 
 ## Brief

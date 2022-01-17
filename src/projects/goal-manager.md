@@ -1,13 +1,8 @@
 ---
 title: 'Goal Manager'
-layout: 'project'
 topic: 'Personal & Portfolio'
 description: 'Create a goal management dashboard to add, track, and modify your goals.'
 ---
-
-
-# Goal Manager
-
 Create a <strong className="color-blue">goal management</strong> dashboard to add, track, and modify <strong className="color-purple">your goals</strong>.
 
 ## Brief

@@ -1,13 +1,8 @@
 ---
 title: 'Twitter'
-layout: 'project'
 topic: 'Clones'
 description: 'Create a Twitter clone that lets user accounts post public messages.'
 ---
-
-
-# Twitter
-
 Create a <strong className="color-blue">Twitter</strong> clone that lets user accounts <strong className="color-purple">post public messages</strong>.
 
 ## Brief

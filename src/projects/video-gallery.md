@@ -1,13 +1,8 @@
 ---
 title: 'Video Gallery'
-layout: 'project'
 topic: 'Fun & Interesting'
 description: 'Create a gallery of video tutorials that pulls from a React YouTube playlist.'
 ---
-
-
-# Video Gallery
-
 Create a gallery of <strong className="color-blue">video tutorials</strong> that pulls from a <strong className="color-purple">React YouTube playlist</strong>.
 
 ## Brief

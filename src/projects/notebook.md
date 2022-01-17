@@ -1,13 +1,8 @@
 ---
 title: 'Notebook'
-layout: 'project'
 topic: 'Productivity'
 description: 'Create a notebook app to add, manage, and organize a group of notes.'
 ---
-
-
-# Notebook
-
 Create a <strong className="color-blue">notebook app</strong> to add, manage, and organize a <strong className="color-purple">group of notes</strong>.
 
 ## Brief

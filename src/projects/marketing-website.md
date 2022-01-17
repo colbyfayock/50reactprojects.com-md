@@ -1,13 +1,8 @@
 ---
 title: 'Marketing Website'
-layout: 'project'
 topic: 'Business & Real-World'
 description: 'Create a marketing website and landing page for a technology product.'
 ---
-
-
-# Marketing Website
-
 Create a <strong className="color-blue">marketing website</strong> and <strong className="color-blue">landing page</strong> for a <strong className="color-purple">technology product</strong>.
 
 ## Brief

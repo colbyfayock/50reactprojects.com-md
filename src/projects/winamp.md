@@ -1,13 +1,8 @@
 ---
 title: 'Winamp'
-layout: 'project'
 topic: 'Clones'
 description: 'Create a Winamp clone that uses the Spotify API to play music.'
 ---
-
-
-# Winamp
-
 Create a <strong className="color-blue">Winamp</strong> clone that uses the <strong className="color-purple">Spotify API</strong> to <strong className="color-purple">play music</strong>.
 
 ## Brief

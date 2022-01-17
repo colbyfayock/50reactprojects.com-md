@@ -1,13 +1,8 @@
 ---
 title: 'Community Chat Bot'
-layout: 'project'
 topic: 'Fun & Interesting'
 description: 'Create and deploy a chat bot that interacts with and moderates a discord community.'
 ---
-
-
-# Community Chat Bot
-
 Create and deploy a <strong className="color-blue">chat bot</strong> that <strong className="color-purple">interacts with</strong> and <strong className="color-purple">moderates</strong> a <strong className="color-purple">discord</strong> community.
 
 ## Brief

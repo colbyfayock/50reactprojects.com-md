@@ -1,13 +1,8 @@
 ---
 title: 'Road Trip Map'
-layout: 'project'
 topic: 'Fun & Interesting'
 description: 'Create a mapping app that shows the route of a road trip across the country.'
 ---
-
-
-# Road Trip Map
-
 Create a <strong className="color-blue">mapping app</strong> that shows the route of a <strong className="color-purple">road trip</strong> across the <strong className="color-purple">country</strong>.
 
 ## Brief

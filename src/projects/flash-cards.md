@@ -1,13 +1,8 @@
 ---
 title: 'Flash Cards'
-layout: 'project'
 topic: 'Productivity'
 description: 'Create interactive flash cards that you can flip, sort, and mark as done.'
 ---
-
-
-# Flash Cards
-
 Create interactive <strong className="color-blue">flash cards</strong> that you can <strong className="color-purple">flip</strong>, <strong className="color-purple">sort</strong>, and <strong className="color-purple">mark as done</strong>.
 
 ## Brief

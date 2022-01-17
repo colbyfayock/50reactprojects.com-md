@@ -1,13 +1,8 @@
 ---
 title: 'Framework Theme'
-layout: 'project'
 topic: 'Tools & Libraries'
 description: 'Create a Gatsby theme that sets up a project with the Tailwind CSS framework.'
 ---
-
-
-# Framework Theme
-
 Create a <strong className="color-blue">Gatsby theme</strong> that sets up a project with the <strong className="color-purple">Tailwind CSS framework</strong>.
 
 ## Brief

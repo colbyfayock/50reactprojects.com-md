@@ -1,13 +1,8 @@
 ---
 title: 'Frogger'
-layout: 'project'
 topic: 'Games & Puzzles'
 description: 'Create a frogger-like game with a goal of getting a chicken to cross a road.'
 ---
-
-
-# Frogger
-
 Create a <strong className="color-blue">frogger-like game</strong> with a goal of getting a <strong className="color-purple">chicken to cross a road</strong>.
 
 ## Brief

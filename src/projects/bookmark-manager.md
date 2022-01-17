@@ -1,13 +1,8 @@
 ---
 title: 'Bookmark Manager'
-layout: 'project'
 topic: 'Productivity'
 description: 'Create a bookmark manager that allows you to store website links for later.'
 ---
-
-
-# Bookmark Manager
-
 Create a <strong className="color-blue">bookmark manager</strong> that allows you to store <strong className="color-purple">website links</strong> for later.
 
 ## Brief

@@ -1,13 +1,8 @@
 ---
 title: 'Conference Schedule'
-layout: 'project'
 topic: 'Business & Real-World'
 description: 'Create a website with speakers and a schedule for a React conference.'
 ---
-
-
-# Conference Schedule
-
 Create a <strong className="color-blue">website</strong> with speakers and a schedule for a <strong className="color-purple">React conference</strong>.
 
 ## Brief

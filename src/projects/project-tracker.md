@@ -1,13 +1,8 @@
 ---
 title: 'Project Tracker'
-layout: 'project'
 topic: 'Personal & Portfolio'
 description: 'Create a ticketing system that allows you to create and manage project issues.'
 ---
-
-
-# Project Tracker
-
 Create a <strong className="color-blue">ticketing system</strong> that allows you to create and manage <strong className="color-purple">project issues</strong>.
 
 ## Brief

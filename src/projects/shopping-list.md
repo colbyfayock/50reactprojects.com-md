@@ -1,13 +1,8 @@
 ---
 title: 'Shopping List'
-layout: 'project'
 topic: 'Productivity'
 description: 'Create a shopping list to add and manage groceries to buy at the store.'
 ---
-
-
-# Shopping List
-
 Create a <strong className="color-blue">shopping list</strong> to add and manage <strong className="color-purple">groceries to buy at the store</strong>.
 
 ## Brief

@@ -1,13 +1,8 @@
 ---
 title: 'Apples to Apples'
-layout: 'project'
 topic: 'Games & Puzzles'
 description: 'Create a card game that matches words and phrases to fill-in-the-blank statements.'
 ---
-
-
-# Apples to Apples
-
 Create a <strong className="color-blue">card game</strong> that matches words and phrases to <strong className="color-purple">fill-in-the-blank statements</strong>.
 
 ## Brief

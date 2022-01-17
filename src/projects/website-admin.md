@@ -1,13 +1,8 @@
 ---
 title: 'Website Admin'
-layout: 'project'
 topic: 'Business & Real-World'
 description: 'Create an admin dashboard to configure website settings that requires user login.'
 ---
-
-
-# Website Admin
-
 Create an <strong className="color-blue">admin dashboard</strong> to configure <strong className="color-purple">website settings</strong> that requires user login.
 
 ## Brief

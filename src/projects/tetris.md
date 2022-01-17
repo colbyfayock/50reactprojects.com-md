@@ -1,13 +1,8 @@
 ---
 title: 'Tetris'
-layout: 'project'
 topic: 'Games & Puzzles'
 description: 'Create a tetris-like game that requires someone to rotate shapes to fit like a puzzle.'
 ---
-
-
-# Tetris
-
 Create a <strong className="color-blue">tetris-like</strong> game that requires someone to <strong className="color-purple">rotate shapes</strong> to fit like a puzzle.
 
 ## Brief

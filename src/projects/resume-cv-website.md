@@ -1,13 +1,8 @@
 ---
 title: 'Resume / CV Website'
-layout: 'project'
 topic: 'Personal & Portfolio'
 description: 'Create a website with your work experience that can be used as a resume or CV.'
 ---
-
-
-# Resume / CV Website
-
 Create a <strong className="color-blue">website</strong> with your <strong className="color-blue">work experience</strong> that can be used as a <strong className="color-purple">resume</strong> or <strong className="color-purple">CV</strong>.
 
 ## Brief

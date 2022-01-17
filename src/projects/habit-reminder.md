@@ -1,13 +1,8 @@
 ---
 title: 'Habit Reminder'
-layout: 'project'
 topic: 'Productivity'
 description: 'Create a habit tracker that will remind you every so often to complete a task.'
 ---
-
-
-# Habit Reminder
-
 Create a <strong className="color-blue">habit tracker</strong> that will remind you every so often to <strong className="color-purple">complete a task</strong>.
 
 ## Brief

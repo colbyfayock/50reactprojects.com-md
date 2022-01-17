@@ -1,13 +1,8 @@
 ---
 title: 'Mad Libs'
-layout: 'project'
 topic: 'Games & Puzzles'
 description: 'Create a mad libs game with templates to add words to phrases.'
 ---
-
-
-# Mad Libs
-
 Create a <strong className="color-blue">mad libs</strong> game with templates to <strong className="color-purple">add words to phrases</strong>.
 
 ## Brief

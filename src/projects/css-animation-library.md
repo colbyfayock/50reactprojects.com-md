@@ -1,13 +1,8 @@
 ---
 title: 'CSS Animation Library'
-layout: 'project'
 topic: 'Tools & Libraries'
 description: 'Create a CSS library that includes easy-to-use loading spinners and animations.'
 ---
-
-
-# CSS Animation Library
-
 Create a <strong className="color-blue">CSS library</strong> that includes easy-to-use <strong className="color-purple">loading spinners</strong> and <strong className="color-purple">animations</strong>.
 
 ## Brief

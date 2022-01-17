@@ -1,13 +1,8 @@
 ---
 title: 'Survey Creator & Manager'
-layout: 'project'
 topic: 'Business & Real-World'
 description: 'Create a group of opinion surveys that rate favorite technologies and entertainment.'
 ---
-
-
-# Survey Creator & Manager
-
 Create a group of <strong className="color-blue">opinion surveys</strong> that rate favorite <strong className="color-purple">technologies</strong> and <strong className="color-purple">entertainment</strong>.
 
 ## Brief

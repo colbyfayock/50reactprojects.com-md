@@ -1,13 +1,8 @@
 ---
 title: 'Space Invaders'
-layout: 'project'
 topic: 'Games & Puzzles'
 description: 'Create a space invaders spacecraft shooter game to shoot multiple waves of enemy ships.'
 ---
-
-
-# Space Invaders
-
 Create a <strong className="color-blue">space invaders</strong> spacecraft shooter game to shoot multiple waves of <strong className="color-purple">enemy ships</strong>.
 
 ## Brief

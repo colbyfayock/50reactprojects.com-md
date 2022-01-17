@@ -28,11 +28,13 @@ export default function Project({ source, frontMatter, path }) {
     ...frontMatter,
     path
   }
+  const { title } = frontMatter;
 
   return (
     <Layout frontMatter={projectFrontMatter}>
       <Section className={styles.project}>
         <ProjectContainer>
+          <h1>{ title }</h1>
           <MDXRemote {...source} components={components}/>
         </ProjectContainer>
       </Section>

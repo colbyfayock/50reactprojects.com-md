@@ -1,13 +1,8 @@
 ---
 title: 'Analytics'
-layout: 'project'
 topic: 'Project Add-Ons'
 description: 'Add Google Analytics to your webpage to analyze web traffic and performance.'
 ---
-
-
-# Analytics
-
 Add <strong className="color-blue">Google Analytics</strong> to your webpage to analyze <strong className="color-purple">web traffic</strong> and <strong className="color-purple">performance</strong>.
 
 ## Brief
