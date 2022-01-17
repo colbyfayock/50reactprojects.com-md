@@ -8,7 +8,7 @@ Add **Google Analytics** to your webpage to analyze **web traffic** and **perfor
 
 ## Brief
 
-Adding analytics to your website or application isn’t just about tracking people’s every move, it’s about trying to understand how people use your site. What pages do people use the most?&nbsp;
+Adding analytics to your website or application isn’t just about tracking people’s every move, it’s about trying to understand how people use your site. What pages do people use the most? &nbsp;Where are the biggest pain points?
 
 ## Level 1
 
