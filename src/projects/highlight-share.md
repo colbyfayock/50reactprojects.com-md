@@ -6,16 +6,9 @@ description: 'Add a highlight and share feature that shows a share button when s
 ---
 
 
-
-<ProjectHeader>
-
 # Highlight & Share
 
 Add a <strong className="color-blue">highlight and share</strong> feature that shows a <strong className="color-purple">share button</strong> when someone <strong className="color-purple">highlights text</strong>.
-
-</ProjectHeader>
-
-<ProjectContent>
 
 ## Brief
 
@@ -26,8 +19,6 @@ Having a blog is the first step to getting your thoughts and experiences out on 
 Having a way to easily share content on social media like Twitter makes it more likely for someone to share it. A way to do that is having a button that when someone clicks it, opens up a new share dialogue.
 
 Add share buttons to blog posts on a webpage that when clicked, open a new dialogue to create a social post.
-
-<LoginRequired>
 
 ## Level 2
 
@@ -41,40 +32,4 @@ People on social media seem to engage more with content that includes nice image
 
 Use Cloudinary to automatically generate an image with the highlighted text that can be used to post to social media.
 
-</LoginRequired>
 
-</ProjectContent>
-
-<ProjectSidebar>
-
-## To Do
-
-<Checklist checkable={false} items={[
-  {
-    label: 'Add share buttons',
-  },
-  {
-    label: 'Add share dialogue box',
-  },
-  {
-    label: 'Trigger on highlight',
-  },
-  {
-    label: 'Include highlighted text',
-  },
-  {
-    label: 'Add Cloudinary template',
-  },
-  {
-    label: 'Create dynamic image',
-  }
-]} />
-
-## Toolbox
-- Window.getSelection()
-- Cloudinary
-
-## Resources
-- [bit.ly/2PAWNr1](https://bit.ly/2PAWNr1)
-
-</ProjectSidebar>

@@ -6,16 +6,9 @@ description: 'Create a marketing website and landing page for a technology produ
 ---
 
 
-
-<ProjectHeader>
-
 # Marketing Website
 
 Create a <strong className="color-blue">marketing website</strong> and <strong className="color-blue">landing page</strong> for a <strong className="color-purple">technology product</strong>.
-
-</ProjectHeader>
-
-<ProjectContent>
 
 ## Brief
 
@@ -30,8 +23,6 @@ Create a new website that highlights the great features of the product and provi
 * Homepage with photograph and high level overview
 * Feature pages linked from homepage with more details
 
-<LoginRequired>
-
 ## Level 2
 
 Just because you made a website, doesn’t automatically mean people will purchase the product.
@@ -44,51 +35,4 @@ Ultimately people need to purchase or sign up for the product and to do that, th
 
 Create a new page with a form that will allow people to contact the company if interested in the product. Include a “Call to Action” link at the bottom of every page on the website except for the contact page itself that links to the contact page.
 
-</LoginRequired>
 
-</ProjectContent>
-
-<ProjectSidebar>
-
-## To Do
-
-<Checklist checkable={false} items={[
-  {
-    label: 'Think of a product name',
-  },
-  {
-    label: 'Gather free pictures',
-  },
-  {
-    label: 'Create a homepage',
-  },
-  {
-    label: 'Create feature pages',
-  },
-  {
-    label: 'Create a landing page',
-  },
-  {
-    label: 'Add a signup form',
-  },
-  {
-    label: 'Create a contact page',
-  },
-  {
-    label: 'Add a contact form',
-  },
-  {
-    label: 'Add contact links to site',
-  }
-]} />
-
-## Toolbox
-- [Unsplash](https://unsplash.com/)
-- [Pexels](https://www.pexels.com/)
-- [Gatsby](https://www.gatsbyjs.com/)
-- [TakeShape CMS](https://www.takeshape.io/)
-
-## Resources
-- [bit.ly/2D11Aiv](https://bit.ly/2D11Aiv)
-
-</ProjectSidebar>

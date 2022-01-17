@@ -6,16 +6,9 @@ description: 'Add Google Analytics to your webpage to analyze web traffic and pe
 ---
 
 
-
-<ProjectHeader>
-
 # Analytics
 
 Add <strong className="color-blue">Google Analytics</strong> to your webpage to analyze <strong className="color-purple">web traffic</strong> and <strong className="color-purple">performance</strong>.
-
-</ProjectHeader>
-
-<ProjectContent>
 
 ## Brief
 
@@ -26,8 +19,6 @@ Adding analytics to your website or application isn’t just about tracking peop
 Google Analytics (GA) is a free tool from Google that lets you  analyze your web traffic. It lets you see what pages people are visiting, where they’re visiting from, and what devices they’re using so you can better understand your traffic.
 
 Create a Google Analytics account and add the Javascript snippet to your website or application.
-
-<LoginRequired>
 
 ## Level 2
 
@@ -41,38 +32,4 @@ GA tracks all traffic — meaning web crawlers and wrong capitalization of URLs.
 
 Add basic filters to maintain consistent data in GA.
 
-</LoginRequired>
 
-</ProjectContent>
-
-<ProjectSidebar>
-
-## To Do
-
-<Checklist checkable={false} items={[
-  {
-    label: 'Create GA account',
-  },
-  {
-    label: 'Add Javascript snippet',
-  },
-  {
-    label: 'Add custom dimensions',
-  },
-  {
-    label: 'Capture custom data',
-  },
-  {
-    label: 'Add data filters',
-  }
-]} />
-
-## Toolbox
-- Google Analytics
-- Custom Dimensions (GA)
-- Filters (GA)
-
-## Resources
-- [bit.ly/33dpW3E](https://bit.ly/33dpW3E)
-
-</ProjectSidebar>

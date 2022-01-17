@@ -6,16 +6,9 @@ description: 'Create a blog that you can use to share your career experiences an
 ---
 
 
-
-<ProjectHeader>
-
 # Blog
 
 Create a <strong className="color-blue">blog</strong> that you can use to share your <strong className="color-purple">career experiences</strong> and <strong className="color-purple">projects</strong>.
-
-</ProjectHeader>
-
-<ProjectContent>
 
 ## Brief
 
@@ -26,8 +19,6 @@ With any career, having a blog to share your experiences is a good way let peopl
 To be able to share your experiences, you need a website structure that will allow you to create new content and manage existing content. One way to do this is by creating markdown files that your website sources to create new pages and display the posts.
 
 Create a blog using markdown files as the content source.
-
-<LoginRequired>
 
 ## Level 2
 
@@ -41,40 +32,4 @@ If you’re sharing code on your blog, HTML natively supports the code and pre t
 
 Integrate a syntax highlighter that makes code blocks more readable.
 
-</LoginRequired>
 
-</ProjectContent>
-
-<ProjectSidebar>
-
-## To Do
-
-<Checklist checkable={false} items={[
-  {
-    label: 'Create a blog',
-  },
-  {
-    label: 'Add first static content',
-  },
-  {
-    label: 'Source static content',
-  },
-  {
-    label: 'Integrate CMS',
-  },
-  {
-    label: 'Add code to content',
-  },
-  {
-    label: 'Add syntax highlighting ',
-  }
-]} />
-
-## Toolbox
-- Netlify CMS
-- Prism.js
-
-## Resources
-- [bit.ly/3jGUnVF](https://bit.ly/3jGUnVF)
-
-</ProjectSidebar>

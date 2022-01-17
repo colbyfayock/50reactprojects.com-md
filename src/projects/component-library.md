@@ -6,16 +6,9 @@ description: 'Create a component library for an online music, video games, and m
 ---
 
 
-
-<ProjectHeader>
-
 # Component Library
 
 Create a <strong className="color-blue">component library</strong> for an online <strong className="color-purple">music</strong>, <strong className="color-purple">video games</strong>, and <strong className="color-purple">movies</strong> store.
-
-</ProjectHeader>
-
-<ProjectContent>
 
 ## Brief
 
@@ -31,8 +24,6 @@ Create a new component library with Storybook.js that includes the following bas
 - Poster Grid: a grid of Posters
 - Media Details: a media item’s metadata including Poster
 
-<LoginRequired>
-
 ## Level 2
 
 Maintaining a component library includes making sure the components always work. To do this, we can use snapshot testing to automatically test our components.
@@ -43,43 +34,4 @@ Use the Storybook add-on StoryShots to add snapshot testing.
 
 The purpose of building a component library is to use it in a project. Using your newly created component library, create a new React app using your favorite framework that shows the your store’s available music, video games, and music (or your favorites of each).
 
-</LoginRequired>
 
-</ProjectContent>
-
-<ProjectSidebar>
-
-## To Do
-
-<Checklist checkable={false} items={[
-  {
-    label: 'Create a new project',
-  },
-  {
-    label: 'Install Storybook.js',
-  },
-  {
-    label: 'Create Poster',
-  },
-  {
-    label: 'Create Poster Grid',
-  },
-  {
-    label: 'Create Media Details',
-  },
-  {
-    label: 'Add StoryShots',
-  },
-  {
-    label: 'Create app',
-  }
-]} />
-
-## Toolbox
-- Storybook.js
-- StoryShots
-
-## Resources
-- [bit.ly/2D68yCA](https://bit.ly/2D68yCA)
-
-</ProjectSidebar>

@@ -6,16 +6,9 @@ description: 'Create and deploy a chat bot that interacts with and moderates a d
 ---
 
 
-
-<ProjectHeader>
-
 # Community Chat Bot
 
 Create and deploy a <strong className="color-blue">chat bot</strong> that <strong className="color-purple">interacts with</strong> and <strong className="color-purple">moderates</strong> a <strong className="color-purple">discord</strong> community.
-
-</ProjectHeader>
-
-<ProjectContent>
 
 ## Brief
 
@@ -26,8 +19,6 @@ With the rise of Slack and Discord, people have swarmed to online communities fo
 People might not ever notice a bot, but what if someone tried to interact with it?
 
 Create a bot and configure it to respond to a message when sent to a chat.
-
-<LoginRequired>
 
 ## Level 2
 
@@ -41,45 +32,4 @@ Not only do we want people to feel welcome, we want people to abide by a code of
 
 Require people to accept the welcome message with an emoji before being allowed to enter the community.
 
-</LoginRequired>
 
-</ProjectContent>
-
-<ProjectSidebar>
-
-## To Do
-
-<Checklist checkable={false} items={[
-  {
-    label: 'Create a bot app',
-  },
-  {
-    label: 'Create Discord app',
-  },
-  {
-    label: 'Create API key',
-  },
-  {
-    label: 'Create test server',
-  },
-  {
-    label: 'Test bot on server',
-  },
-  {
-    label: 'Add static responses',
-  },
-  {
-    label: 'Add welcome message',
-  },
-  {
-    label: 'Configure access rules',
-  }
-]} />
-
-## Toolbox
-- Discord Developer Portal
-
-## Resources
-- [bit.ly/3jLpQpA](https://bit.ly/3jLpQpA)
-
-</ProjectSidebar>

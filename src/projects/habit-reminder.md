@@ -6,16 +6,9 @@ description: 'Create a habit tracker that will remind you every so often to comp
 ---
 
 
-
-<ProjectHeader>
-
 # Habit Reminder
 
 Create a <strong className="color-blue">habit tracker</strong> that will remind you every so often to <strong className="color-purple">complete a task</strong>.
-
-</ProjectHeader>
-
-<ProjectContent>
 
 ## Brief
 
@@ -26,8 +19,6 @@ Habits are hard to create. Maybe it’s fixing your posture or trying to drink s
 Setting up a reminder for a habit is usually based on time. We can focus on one habit at a time and create a timer that will send us a reminder every so often.
 
 Create a timer that sends a recurring notification based on a selected time interval.
-
-<LoginRequired>
 
 ## Level 2
 
@@ -41,45 +32,4 @@ Ultimately developing a habit means we want to improve on something and tracking
 
 Add the ability to make a habit as done and track the progress of completed habits.
 
-</LoginRequired>
 
-</ProjectContent>
-
-<ProjectSidebar>
-
-## To Do
-
-<Checklist checkable={false} items={[
-  {
-    label: 'Create timer',
-  },
-  {
-    label: 'Create interval control',
-  },
-  {
-    label: 'Add multiple timers',
-  },
-  {
-    label: 'Add labels',
-  },
-  {
-    label: 'Add custom intervals',
-  },
-  {
-    label: 'Add ability to mark done',
-  },
-  {
-    label: 'Track progress of habits',
-  },
-  {
-    label: 'Show graph of progress',
-  }
-]} />
-
-## Toolbox
-- TypeORM
-
-## Resources
-- [bit.ly/3goSnzb](https://bit.ly/3goSnzb)
-
-</ProjectSidebar>

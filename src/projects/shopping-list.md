@@ -6,16 +6,9 @@ description: 'Create a shopping list to add and manage groceries to buy at the s
 ---
 
 
-
-<ProjectHeader>
-
 # Shopping List
 
 Create a <strong className="color-blue">shopping list</strong> to add and manage <strong className="color-purple">groceries to buy at the store</strong>.
-
-</ProjectHeader>
-
-<ProjectContent>
 
 ## Brief
 
@@ -26,8 +19,6 @@ Whether or not we’re physically going to the store to get them, we all need gr
 The goal of a shopping list is to be able to add items and check them off once they’re found or purchased. This helps keep track of what we need and what we already have.
 
 Create an app that allows you to add items to a list and mark them as done.
-
-<LoginRequired>
 
 ## Level 2
 
@@ -41,42 +32,4 @@ We’re not always the person who goes to the grocery store and gets the things 
 
 Add the ability to share the list with another person.
 
-</LoginRequired>
 
-</ProjectContent>
-
-<ProjectSidebar>
-
-## To Do
-
-<Checklist checkable={false} items={[
-  {
-    label: 'Create a new app',
-  },
-  {
-    label: 'Add a list of items',
-  },
-  {
-    label: 'Add button to add item',
-  },
-  {
-    label: 'Add button to mark done',
-  },
-  {
-    label: 'Add photo attachment',
-  },
-  {
-    label: 'Add description field',
-  },
-  {
-    label: 'Add sharing',
-  }
-]} />
-
-## Toolbox
-- Firebase
-
-## Resources
-- [bit.ly/31IOjUa](https://bit.ly/31IOjUa)
-
-</ProjectSidebar>

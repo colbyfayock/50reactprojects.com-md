@@ -6,16 +6,9 @@ description: 'Create a fan wiki that includes all characters of Futurama or your
 ---
 
 
-
-<ProjectHeader>
-
 # Fan Wiki
 
 Create a <strong className="color-blue">fan wiki</strong> that includes all characters of <strong className="color-purple">Futurama</strong> or your favorite <strong className="color-purple">TV show</strong> or <strong className="color-purple">movie</strong>.
-
-</ProjectHeader>
-
-<ProjectContent>
 
 ## Brief
 
@@ -26,8 +19,6 @@ There’s a huge community of fans of your favorite TV series who want an easy w
 A good way of making that character data easy to reference is by hosting it on a website. Luckily, we can use an API to dynamically create a wiki of all of the characters of the show.
 
 Create a character wiki using an API that lists out all of the characters of your favorite TV series.
-
-<LoginRequired>
 
 ## Level 2
 
@@ -41,42 +32,4 @@ Looking up a character from your favorite TV series doesn’t need to be boring,
 
 Use some of the characteristics of the TV show to make the character wiki look like it belongs in that TV universe with custom styles and animations.
 
-</LoginRequired>
 
-</ProjectContent>
-
-<ProjectSidebar>
-
-## To Do
-
-<Checklist checkable={false} items={[
-  {
-    label: 'Create a new app',
-  },
-  {
-    label: 'Fetch all characters',
-  },
-  {
-    label: 'List out all characters',
-  },
-  {
-    label: 'Create dynamic pages',
-  },
-  {
-    label: 'Add character details',
-  },
-  {
-    label: 'Add custom styles',
-  },
-  {
-    label: 'Add custom animations',
-  }
-]} />
-
-## Toolbox
-- [Futurama API](https://github.com/Katedam/futurama-api)
-
-## Resources
-- [bit.ly/3jEUBN1](https://bit.ly/3jEUBN1)
-
-</ProjectSidebar>

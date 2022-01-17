@@ -6,16 +6,9 @@ description: 'Create a bookmark manager that allows you to store website links f
 ---
 
 
-
-<ProjectHeader>
-
 # Bookmark Manager
 
 Create a <strong className="color-blue">bookmark manager</strong> that allows you to store <strong className="color-purple">website links</strong> for later.
-
-</ProjectHeader>
-
-<ProjectContent>
 
 ## Brief
 
@@ -26,8 +19,6 @@ Having a way to store your bookmarks means there’s a better chance you’re go
 An easy way to view and use bookmarks is by having a webpage where you can see all of the links in some logical grouping and have the ability to click right into the bookmark.
 
 Create static lists of bookmarks grouped by categories.
-
-<LoginRequired>
 
 ## Level 2
 
@@ -41,42 +32,4 @@ Having a list of bookmarks is great, but we might not necessarilly want to go th
 
 Create a bookmarklet to easily add a new bookmark.
 
-</LoginRequired>
 
-</ProjectContent>
-
-<ProjectSidebar>
-
-## To Do
-
-<Checklist checkable={false} items={[
-  {
-    label: 'Create page',
-  },
-  {
-    label: 'Add static bookmarks',
-  },
-  {
-    label: 'Group bookmarks',
-  },
-  {
-    label: 'Add links to database',
-  },
-  {
-    label: 'Add create form',
-  },
-  {
-    label: 'Add remove button',
-  },
-  {
-    label: 'Create bookmarklet',
-  }
-]} />
-
-## Toolbox
-- FaunaDB
-
-## Resources
-- [bit.ly/2BIGWDh](https://bit.ly/2BIGWDh)
-
-</ProjectSidebar>

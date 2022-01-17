@@ -6,16 +6,9 @@ description: 'Create an admin dashboard to configure website settings that requi
 ---
 
 
-
-<ProjectHeader>
-
 # Website Admin
 
 Create an <strong className="color-blue">admin dashboard</strong> to configure <strong className="color-purple">website settings</strong> that requires user login.
-
-</ProjectHeader>
-
-<ProjectContent>
 
 ## Brief
 
@@ -26,8 +19,6 @@ Having to push out code every time you want to make a configuration change is ti
 Providing the ability to make changes to a website on the fly can be risky if it’s not safe and secure behind authentication.
 
 Create a page on a website that requires authentication to access the content.
-
-<LoginRequired>
 
 ## Level 2
 
@@ -41,49 +32,4 @@ Once a website or app feature is dynamic based on configuration, we can set up a
 
 Create a form in the admin dashboard that updates the configuration of a feature.
 
-</LoginRequired>
 
-</ProjectContent>
-
-<ProjectSidebar>
-
-## To Do
-
-<Checklist checkable={false} items={[
-  {
-    label: 'Create a new page',
-  },
-  {
-    label: 'Create an admin page',
-  },
-  {
-    label: 'Require login for admin',
-  },
-  {
-    label: 'Add login page',
-  },
-  {
-    label: 'Integrate authentication',
-  },
-  {
-    label: 'Add configurable settings',
-  },
-  {
-    label: 'Add configuration form',
-  },
-  {
-    label: 'Update config on save',
-  },
-  {
-    label: 'Deploy or update on save',
-  }
-]} />
-
-## Toolbox
-- Auth0
-- Auth0 React SDK
-
-## Resources
-- [bit.ly/3f6t9ny](https://bit.ly/3f6t9ny)
-
-</ProjectSidebar>

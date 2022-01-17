@@ -6,16 +6,9 @@ description: 'Create a list of projects that include case studies and details ab
 ---
 
 
-
-<ProjectHeader>
-
 # Project Case Studies
 
 Create a <strong className="color-blue">list of projects</strong> that include <strong className="color-purple">case studies</strong> and <strong className="color-purple">details</strong> about the project.
-
-</ProjectHeader>
-
-<ProjectContent>
 
 ## Brief
 
@@ -26,8 +19,6 @@ Being able to showcase your work is a great way to help others understand how yo
 Showing the various projects you worked on help a potential employer or collaborator know what types of projects you’ve worked on.
 
 Create a page that includes a list of some of the best projects you’ve worked on.
-
-<LoginRequired>
 
 ## Level 2
 
@@ -41,36 +32,4 @@ To fully understand your thought process, providing case studies can help walk s
 
 Add case studies for each project that details the project process and challenges.
 
-</LoginRequired>
 
-</ProjectContent>
-
-<ProjectSidebar>
-
-## To Do
-
-<Checklist checkable={false} items={[
-  {
-    label: 'Create a list of projects',
-  },
-  {
-    label: 'Add projects to website',
-  },
-  {
-    label: 'Add project details',
-  },
-  {
-    label: 'Add project images',
-  },
-  {
-    label: 'Add case studies',
-  }
-]} />
-
-## Toolbox
-- Hemingway Editor
-
-## Resources
-- [bit.ly/3f5RlXj](https://bit.ly/3f5RlXj)
-
-</ProjectSidebar>

@@ -6,16 +6,9 @@ description: 'Create an interactive piano that you can use to play music with yo
 ---
 
 
-
-<ProjectHeader>
-
 # Musical Instrument
 
 Create an <strong className="color-blue">interactive piano</strong> that you can use to play music with your <strong className="color-purple">keyboard</strong>.
-
-</ProjectHeader>
-
-<ProjectContent>
 
 ## Brief
 
@@ -26,8 +19,6 @@ Not everyone has the luxury of owning a musical instrument, but maybe those peop
 Using the browser and web audio APIs, we can create sounds that when put together, can actually sound like music.
 
 Create a set of buttons that play notes of a scale when clicked.
-
-<LoginRequired>
 
 ## Level 2
 
@@ -41,42 +32,4 @@ We might have limited space in the browser, but there’s a wide range of notes,
 
 Create effect toggles that change the sound of the notes when toggled on.
 
-</LoginRequired>
 
-</ProjectContent>
-
-<ProjectSidebar>
-
-## To Do
-
-<Checklist checkable={false} items={[
-  {
-    label: 'Create buttons',
-  },
-  {
-    label: 'Play sound when clicked',
-  },
-  {
-    label: 'Arrange notes in a scale',
-  },
-  {
-    label: 'Create piano layout',
-  },
-  {
-    label: 'Set keyboard events',
-  },
-  {
-    label: 'Create effects layout',
-  },
-  {
-    label: 'Toggle audio effects',
-  }
-]} />
-
-## Toolbox
-- React HotKeys
-
-## Resources
-- [bit.ly/3g9zwrP](https://bit.ly/3g9zwrP)
-
-</ProjectSidebar>

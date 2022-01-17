@@ -6,16 +6,9 @@ description: 'Add a search form and results page to a website or app.'
 ---
 
 
-
-<ProjectHeader>
-
 # Search
 
 Add a <strong className="color-blue">search form</strong> and <strong className="color-blue">results page</strong> to a <strong className="color-purple">website</strong> or <strong className="color-purple">app</strong>.
-
-</ProjectHeader>
-
-<ProjectContent>
 
 ## Brief
 
@@ -26,8 +19,6 @@ Websites and apps of all types and sizes can be difficult to navigate with all o
 Adding a search form with an input is a basic way to provide search capabilities to a website. Coupling that with narrowing down results from that query helps people find what they need.
 
 Add a search form with an input to an existing website or application and use Fuse.js to search through a list of content that’s available on your project.
-
-<LoginRequired>
 
 ## Level 2
 
@@ -41,51 +32,4 @@ As websites get larger, so does its content. It doesn’t always make sense to i
 
 Create a serverless function that loads an index file of all available content that uses the existing Fuse.js search to return results as an API request.
 
-</LoginRequired>
 
-</ProjectContent>
-
-<ProjectSidebar>
-
-## To Do
-
-<Checklist checkable={false} items={[
-  {
-    label: 'Add a search form',
-  },
-  {
-    label: 'Add list of content',
-  },
-  {
-    label: 'Search list with Fuse.js',
-  },
-  {
-    label: 'Add filter inputs',
-  },
-  {
-    label: 'Filter content list',
-  },
-  {
-    label: 'Add serverless function',
-  },
-  {
-    label: 'Add search to function',
-  },
-  {
-    label: 'Search with function',
-  },
-  {
-    label: 'Add filters to function',
-  },
-  {
-    label: 'Filter with function',
-  }
-]} />
-
-## Toolbox
-- Fuse.js
-
-## Resources
-- [bit.ly/3eZZLiQ](https://bit.ly/3eZZLiQ)
-
-</ProjectSidebar>

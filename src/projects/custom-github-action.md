@@ -6,16 +6,9 @@ description: 'Create a custom GitHub Action that notifies Slack with pull reques
 ---
 
 
-
-<ProjectHeader>
-
 # Custom GitHub Action
 
 Create a custom <strong className="color-blue">GitHub Action</strong> that notifies <strong className="color-purple">Slack</strong> with <strong className="color-purple">pull request updates</strong>.
-
-</ProjectHeader>
-
-<ProjectContent>
 
 ## Brief
 
@@ -26,8 +19,6 @@ GitHub Actions are a powerful tool that allows you to automate code tasks and re
 One of the hooks we can tap into with GitHub Actions is the ability to run some code when Pull Requests are created. We can also grab contextual information about that Pull Request to get details like who created the request.
 
 Create a GitHub Action that logs information about a Pull Request when it’s created.
-
-<LoginRequired>
 
 ## Level 2
 
@@ -41,37 +32,4 @@ In order to make a GitHub Action useful between different projects, it helps to 
 
 Add input configuration options so other projects can use the action with their own Slack and git instance.
 
-</LoginRequired>
 
-</ProjectContent>
-
-<ProjectSidebar>
-
-## To Do
-
-<Checklist checkable={false} items={[
-  {
-    label: 'Create a custom Action',
-  },
-  {
-    label: 'Trigger on Pull Request',
-  },
-  {
-    label: 'Log Pull Request details',
-  },
-  {
-    label: 'Post details to Slack',
-  },
-  {
-    label: 'Add Pull Request link',
-  }
-]} />
-
-## Toolbox
-- Slack API
-- ncc
-
-## Resources
-- [bit.ly/2PBwSiT](https://bit.ly/2PBwSiT)
-
-</ProjectSidebar>

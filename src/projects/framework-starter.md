@@ -6,16 +6,9 @@ description: 'Create a Next.js starter that scaffolds a new blog app automatical
 ---
 
 
-
-<ProjectHeader>
-
 # Framework Starter
 
 Create a <strong className="color-blue">Next.js starter</strong> that scaffolds a new <strong className="color-purple">blog app</strong> automatically.
-
-</ProjectHeader>
-
-<ProjectContent>
 
 ## Brief
 
@@ -26,8 +19,6 @@ Starters are a great way to quickly and easily bootstrap a new application. If y
 At it’s core, a Starter is simply a project using the framework of your choice that you clone to use. Getting started with creating a new Starter is as simple as creating a new project.
 
 Create a new Next.js app with its own repository on Github.
-
-<LoginRequired>
 
 ## Level 2
 
@@ -41,37 +32,4 @@ If we’re managing a blog, it’s useful to be able to manage it through a CMS 
 
 Configure the Starter to work out of the box after simple setup with a custom CMS.
 
-</LoginRequired>
 
-</ProjectContent>
-
-<ProjectSidebar>
-
-## To Do
-
-<Checklist checkable={false} items={[
-  {
-    label: 'Create a Next.js app',
-  },
-  {
-    label: 'Add to Github',
-  },
-  {
-    label: 'Add blog pages',
-  },
-  {
-    label: 'Add sample content',
-  },
-  {
-    label: 'Add CMS configuration',
-  }
-]} />
-
-## Toolbox
-- Next.js
-- MDX
-
-## Resources
-- [bit.ly/3ixC0AP](https://bit.ly/3ixC0AP)
-
-</ProjectSidebar>

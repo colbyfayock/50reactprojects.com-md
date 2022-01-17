@@ -7,16 +7,9 @@ description: Create a Zelda Breath of the Wild game UI clone that lets someone s
 
 ---
 
-
-<ProjectHeader>
-
 # Zelda UI
 
 Create a <strong className="color-blue">Zelda Breath of the Wild game UI</strong> clone that lets someone <strong className="color-purple">select items</strong>.
-
-</ProjectHeader>
-
-<ProjectContent>
 
 ## Brief
 
@@ -27,8 +20,6 @@ Zelda Breath of the Wild was a breakthrough game for the Nintendo Switch platfor
 The goal of the selection UI is to allow the player to choose what weapon or item they have active for gameplay. This includes swords, shields, or food to regain strength.
 
 Create a grid of selectable items that allow someone to select an item to make it active.
-
-<LoginRequired>
 
 ## Level 2
 
@@ -42,41 +33,4 @@ When playing a game, you don’t have a mouse to click, you use a joystick or a 
 
 Add hotkeys that allow someone to navigate the selection UI with only their keyboard.
 
-</LoginRequired>
 
-</ProjectContent>
-
-<ProjectSidebar>
-
-## To Do
-
-<Checklist checkable={false} items={[
-{
-label: 'Create grid of items',
-},
-{
-label: 'Add active state',
-},
-{
-label: 'Add character',
-},
-{
-label: 'Show items on character',
-},
-{
-label: 'Show item info panel',
-},
-{
-label: 'Add navigation hotkeys',
-}
-]} />
-
-## Toolbox
-
-* React HotKeys
-
-## Resources
-
-* [bit.ly/30J9CG1](https://bit.ly/30J9CG1)
-
-</ProjectSidebar>

@@ -6,16 +6,9 @@ description: 'Create a website with speakers and a schedule for a React conferen
 ---
 
 
-
-<ProjectHeader>
-
 # Conference Schedule
 
 Create a <strong className="color-blue">website</strong> with speakers and a schedule for a <strong className="color-purple">React conference</strong>.
-
-</ProjectHeader>
-
-<ProjectContent>
 
 ## Brief
 
@@ -26,8 +19,6 @@ The organizers of a new React conference are looking for a website that breaks d
 Before anything else, people need to know about the event. Where is it? What day is it? Where can people sleep?
 
 Create a multi-page website that includes all of the basic information about the new conference. The basic information should include details like the name of the event, a description, the date, the location, food options, hotel options, and importantly a code of conduct.
-
-<LoginRequired>
 
 ## Level 2
 
@@ -41,51 +32,4 @@ Managing a little content isn’t too bad in the code, but what if the conferenc
 
 Set up a content management system (CMS) and source the content of the website with that system.
 
-</LoginRequired>
 
-</ProjectContent>
-
-<ProjectSidebar>
-
-## To Do
-
-<Checklist checkable={false} items={[
-  {
-    label: 'Think of an event name',
-  },
-  {
-    label: 'Create a homepage',
-  },
-  {
-    label: 'Create location info page',
-  },
-  {
-    label: 'Create food info page',
-  },
-  {
-    label: 'Create code of conduct',
-  },
-  {
-    label: 'Add speakers',
-  },
-  {
-    label: 'Create schedule page',
-  },
-  {
-    label: 'Create CMS project',
-  },
-  {
-    label: 'Migrate content to CMS',
-  },
-  {
-    label: 'Source content from CMS',
-  }
-]} />
-
-## Toolbox
-- [faker.js](https://github.com/marak/Faker.js/)
-
-## Resources
-- [bit.ly/2ZZIlij](https://bit.ly/2ZZIlij)
-
-</ProjectSidebar>

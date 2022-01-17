@@ -6,16 +6,9 @@ description: 'Create a CSS library that includes easy-to-use loading spinners an
 ---
 
 
-
-<ProjectHeader>
-
 # CSS Animation Library
 
 Create a <strong className="color-blue">CSS library</strong> that includes easy-to-use <strong className="color-purple">loading spinners</strong> and <strong className="color-purple">animations</strong>.
-
-</ProjectHeader>
-
-<ProjectContent>
 
 ## Brief
 
@@ -26,8 +19,6 @@ When dealing with a website that makes any type of request, often you’ll want 
 In order to show a loading indication, we need to have them available. Sometimes they take the form of something spinning around, other times they might appear to flash and glow with light gradients and colors.
 
 Create loading icons and indicators that animate with CSS.
-
-<LoginRequired>
 
 ## Level 2
 
@@ -41,36 +32,4 @@ When creating a library, we want to be able to provide a way for someone to easi
 
 Package and configure the spinners and animations so they can easily be used in another project.
 
-</LoginRequired>
 
-</ProjectContent>
-
-<ProjectSidebar>
-
-## To Do
-
-<Checklist checkable={false} items={[
-  {
-    label: 'Create loading icons',
-  },
-  {
-    label: 'Animate icons',
-  },
-  {
-    label: 'Add style customization',
-  },
-  {
-    label: 'Package library',
-  },
-  {
-    label: 'Make easy to import',
-  }
-]} />
-
-## Toolbox
-- Sass
-
-## Resources
-- [bit.ly/3gFEmx3](https://bit.ly/3gFEmx3)
-
-</ProjectSidebar>

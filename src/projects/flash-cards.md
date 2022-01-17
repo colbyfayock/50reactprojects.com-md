@@ -6,16 +6,9 @@ description: 'Create interactive flash cards that you can flip, sort, and mark a
 ---
 
 
-
-<ProjectHeader>
-
 # Flash Cards
 
 Create interactive <strong className="color-blue">flash cards</strong> that you can <strong className="color-purple">flip</strong>, <strong className="color-purple">sort</strong>, and <strong className="color-purple">mark as done</strong>.
-
-</ProjectHeader>
-
-<ProjectContent>
 
 ## Brief
 
@@ -26,8 +19,6 @@ Flash cards are great way to learn a heap of information in a short period of ti
 Having a good list of questions, phrases, or keywords along with the answers is important to setting up a good deck of flash cards. Setting up a mechanism to hide the answer until we try to answer it ourselves is important to the tool.
 
 Create a list of questions and answers where the answer for each question is hidden until you click a button.
-
-<LoginRequired>
 
 ## Level 2
 
@@ -41,42 +32,4 @@ Once you’ve correctly answered a question on a flash card and feel confident a
 
 Add the ability to mark each question as “done” when moving through the cards to temporarily remove it from the full “deck” of flash cards.
 
-</LoginRequired>
 
-</ProjectContent>
-
-<ProjectSidebar>
-
-## To Do
-
-<Checklist checkable={false} items={[
-  {
-    label: 'Create list of questions',
-  },
-  {
-    label: 'Add hidden answers',
-  },
-  {
-    label: 'Show answers on click',
-  },
-  {
-    label: 'Show one card at a time',
-  },
-  {
-    label: 'Update layout to a card',
-  },
-  {
-    label: 'Add mark as done button',
-  },
-  {
-    label: 'Hide finished cards',
-  }
-]} />
-
-## Toolbox
-- Firebase
-
-## Resources
-- [bit.ly/30c9zCi](https://bit.ly/30c9zCi)
-
-</ProjectSidebar>

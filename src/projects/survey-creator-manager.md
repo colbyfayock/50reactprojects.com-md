@@ -6,16 +6,9 @@ description: 'Create a group of opinion surveys that rate favorite technologies 
 ---
 
 
-
-<ProjectHeader>
-
 # Survey Creator & Manager
 
 Create a group of <strong className="color-blue">opinion surveys</strong> that rate favorite <strong className="color-purple">technologies</strong> and <strong className="color-purple">entertainment</strong>.
-
-</ProjectHeader>
-
-<ProjectContent>
 
 ## Brief
 
@@ -26,8 +19,6 @@ Surveying groups of people is a good way to understand more about that group of 
 We want to find out what tools the React community uses to see if there is a pattern in usage. This can help us see if there is a gap in tools that we could build a new product for.
 
 Create a survey that gives a multiple choice group of questions with a comment field to find out people’s favorite React tools.
-
-<LoginRequired>
 
 ## Level 2
 
@@ -41,48 +32,4 @@ Once the surveys are in, we end up with a lot of data about the questions we ask
 
 Create a dashboard of metrics that show trends determined for the group of surveys.
 
-</LoginRequired>
 
-</ProjectContent>
-
-<ProjectSidebar>
-
-## To Do
-
-<Checklist checkable={false} items={[
-  {
-    label: 'Create survey questions',
-  },
-  {
-    label: 'Create survey form',
-  },
-  {
-    label: 'Add response storage',
-  },
-  {
-    label: 'Create dashboard',
-  },
-  {
-    label: 'Add survey creation',
-  },
-  {
-    label: 'Add survey management',
-  },
-  {
-    label: 'Create results dashboard',
-  },
-  {
-    label: 'Add response data',
-  },
-  {
-    label: 'Add results charts',
-  }
-]} />
-
-## Toolbox
-- Formik
-
-## Resources
-- [bit.ly/331yHNO](https://bit.ly/331yHNO)
-
-</ProjectSidebar>

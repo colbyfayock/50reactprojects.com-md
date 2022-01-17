@@ -6,16 +6,9 @@ description: 'Create an online store where you can buy video games and fan gear.
 ---
 
 
-
-<ProjectHeader>
-
 # Ecommerce Store
 
 Create an <strong className="color-blue">online store</strong> where you can buy <strong className="color-purple">video games</strong> and <strong className="color-purple">fan gear</strong>.
-
-</ProjectHeader>
-
-<ProjectContent>
 
 ## Brief
 
@@ -26,8 +19,6 @@ Gone are the times that you need to find a local game store to get the latest Ha
 For someone to be able to purchase a game, they need to be able to find it on your website.
 
 Create a website that includes pictures and names of some video games and fan gear.
-
-<LoginRequired>
 
 ## Level 2
 
@@ -41,55 +32,4 @@ In order to purchase a product, we’ll need to provide a way for the customer t
 
 Add a cart and payment provider that allows someone to purchase a game.
 
-</LoginRequired>
 
-</ProjectContent>
-
-<ProjectSidebar>
-
-## To Do
-
-<Checklist checkable={false} items={[
-  {
-    label: 'Create a store',
-  },
-  {
-    label: 'Create a list of games ',
-  },
-  {
-    label: 'Add games to website',
-  },
-  {
-    label: 'Create a list of fan gear',
-  },
-  {
-    label: 'Add fan gear to website',
-  },
-  {
-    label: 'Create CMS project',
-  },
-  {
-    label: 'Migrate content to CMS',
-  },
-  {
-    label: 'Source content from CMS',
-  },
-  {
-    label: 'Create shopping cart',
-  },
-  {
-    label: 'Set up payment provider',
-  },
-  {
-    label: 'Create checkout process',
-  }
-]} />
-
-## Toolbox
-- Stripe
-- use-shopping-cart
-
-## Resources
-- [bit.ly/2DgwEdV](https://bit.ly/2DgwEdV)
-
-</ProjectSidebar>

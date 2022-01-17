@@ -6,16 +6,9 @@ description: 'Add webmentions integration to a website that shows Twitter intera
 ---
 
 
-
-<ProjectHeader>
-
 # Webmentions
 
 Add <strong className="color-blue">webmentions</strong> integration to a website that shows <strong className="color-purple">Twitter interactions</strong> with the website
-
-</ProjectHeader>
-
-<ProjectContent>
 
 ## Brief
 
@@ -26,8 +19,6 @@ Social interaction is an impactful way to bring more of an audience and conversa
 In order to make use of Webmentions, a website needs to be configured with meta tags to provide information.
 
 Add the proper meta tags to a website and validate its use with webmention.io.
-
-<LoginRequired>
 
 ## Level 2
 
@@ -41,41 +32,4 @@ Now that the website is showing all of the interactions, there should be an easy
 
 Add a social link that when clicked creates a tweet with a link to the page.
 
-</LoginRequired>
 
-</ProjectContent>
-
-<ProjectSidebar>
-
-## To Do
-
-<Checklist checkable={false} items={[
-  {
-    label: 'Add meta tags to website',
-  },
-  {
-    label: 'Validate meta tags',
-  },
-  {
-    label: 'Connect to Webmention',
-  },
-  {
-    label: 'Connect social to Bridgy',
-  },
-  {
-    label: 'List interactions',
-  },
-  {
-    label: 'Add tweet button',
-  }
-]} />
-
-## Toolbox
-- webmention.io
-- Bridgy
-- Gatsby Plugin Webmention
-
-## Resources
-- [bit.ly/33eBCTw](https://bit.ly/33eBCTw)
-
-</ProjectSidebar>

@@ -6,16 +6,9 @@ description: 'Create a Pokédex that shows a list of all Pokémon with links to 
 ---
 
 
-
-<ProjectHeader>
-
 # Pokédex
 
 Create a <strong className="color-blue">Pokédex</strong> that shows a list of all <strong className="color-purple">Pokémon</strong> with links to <strong className="color-purple">stats</strong> of each <strong className="color-purple">Pokémon</strong>.
-
-</ProjectHeader>
-
-<ProjectContent>
 
 ## Brief
 
@@ -26,8 +19,6 @@ If you’re on your journey to be a Pokémon master, nothing is going to be more
 Being able to identify a Pokémon is the first step to understanding more about that Pokémon.
 
 Create a list of Pokémon that shows the name of each Pokémon along with a picture for identification.
-
-<LoginRequired>
 
 ## Level 2
 
@@ -41,45 +32,4 @@ After learning the name of a Pokémon, the next step is to find out more about t
 
 Create a new page for each Pokémon that’s linked to from the index and includes the basic attributes of each Pokémon.
 
-</LoginRequired>
 
-</ProjectContent>
-
-<ProjectSidebar>
-
-## To Do
-
-<Checklist checkable={false} items={[
-  {
-    label: 'Create a new app',
-  },
-  {
-    label: 'Fetch Pokémon data',
-  },
-  {
-    label: 'List out Pokémon',
-  },
-  {
-    label: 'Add Load More button',
-  },
-  {
-    label: 'Fetch next page on click',
-  },
-  {
-    label: 'Create page per Pokémon',
-  },
-  {
-    label: 'Add link to Pokémon',
-  },
-  {
-    label: 'Add Pokémon stats',
-  }
-]} />
-
-## Toolbox
-- PokéAPI
-
-## Resources
-- [bit.ly/333C0En](https://bit.ly/333C0En)
-
-</ProjectSidebar>

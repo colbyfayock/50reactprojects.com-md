@@ -6,16 +6,9 @@ description: 'Create a map dashboard that shows statistics and geographic inform
 ---
 
 
-
-<ProjectHeader>
-
 # Map Statistics Dashboard
 
 Create a <strong className="color-blue">map dashboard</strong> that shows statistics and geographic information about <strong className="color-purple">COVID-19</strong>.
-
-</ProjectHeader>
-
-<ProjectContent>
 
 ## Brief
 
@@ -26,8 +19,6 @@ Dealing with a global pandemic means viruses like the Coronavirus impact the wor
 The easiest way to see statistics country to country is to have a map that you can browse with each country’s statistics  available next to that country.
 
 Create a mapping app that uses the disease.sh Coronavirus API to add markers to the map for each country along with the number of COVID-19 cases.
-
-<LoginRequired>
 
 ## Level 2
 
@@ -41,50 +32,4 @@ Getting current statistics is a good way to understand the current state of the 
 
 Use the historical data API to show graphs on the dashboard that provide context to the growth and spread of the virus.
 
-</LoginRequired>
 
-</ProjectContent>
-
-<ProjectSidebar>
-
-## To Do
-
-<Checklist checkable={false} items={[
-  {
-    label: 'Create a new map app',
-  },
-  {
-    label: 'Fetch API countries data',
-  },
-  {
-    label: 'Add markers to map',
-  },
-  {
-    label: 'Add statistics to markers',
-  },
-  {
-    label: 'Fetch API global data',
-  },
-  {
-    label: 'Create a stats dashboard',
-  },
-  {
-    label: 'Add global stats',
-  },
-  {
-    label: 'Fetch API historical data',
-  },
-  {
-    label: 'Add graphs to map',
-  }
-]} />
-
-## Toolbox
-- Open Disease Data API
-- React Leaflet
-- Gatsby Leaflet Starter
-
-## Resources
-- [bit.ly/2Po0m3r](https://bit.ly/2Po0m3r)
-
-</ProjectSidebar>

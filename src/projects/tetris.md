@@ -6,16 +6,9 @@ description: 'Create a tetris-like game that requires someone to rotate shapes t
 ---
 
 
-
-<ProjectHeader>
-
 # Tetris
 
 Create a <strong className="color-blue">tetris-like</strong> game that requires someone to <strong className="color-purple">rotate shapes</strong> to fit like a puzzle.
-
-</ProjectHeader>
-
-<ProjectContent>
 
 ## Brief
 
@@ -26,8 +19,6 @@ Tretis is a puzzle game that never seems to go out of style. Regardless of the t
 The main player control of Tetris is that you’re able to move a single object left and right as it falls to the ground. This helps line up the blocks as they stack up.
 
 Add a single object made up of blocks that naturally falls down with the ability to move it left and right. Once that object falls, another object should fall after.
-
-<LoginRequired>
 
 ## Level 2
 
@@ -41,48 +32,4 @@ The goal as you position the shapes is to try to complete a row. Doing so remove
 
 Remove a row from the play area once it’s completed.
 
-</LoginRequired>
 
-</ProjectContent>
-
-<ProjectSidebar>
-
-## To Do
-
-<Checklist checkable={false} items={[
-  {
-    label: 'Create a play area',
-  },
-  {
-    label: 'Add blocks',
-  },
-  {
-    label: 'Add shapes of blocks',
-  },
-  {
-    label: 'Add falling shape',
-  },
-  {
-    label: 'Add shape stacking',
-  },
-  {
-    label: 'Add shape movement',
-  },
-  {
-    label: 'Add shape rotation',
-  },
-  {
-    label: 'Add shape completion',
-  },
-  {
-    label: 'Add Game Over when full',
-  }
-]} />
-
-## Toolbox
-- React Hooks
-
-## Resources
-- [bit.ly/30tOGm9](https://bit.ly/30tOGm9)
-
-</ProjectSidebar>

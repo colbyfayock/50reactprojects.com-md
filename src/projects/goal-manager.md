@@ -6,16 +6,9 @@ description: 'Create a goal management dashboard to add, track, and modify your 
 ---
 
 
-
-<ProjectHeader>
-
 # Goal Manager
 
 Create a <strong className="color-blue">goal management</strong> dashboard to add, track, and modify <strong className="color-purple">your goals</strong>.
-
-</ProjectHeader>
-
-<ProjectContent>
 
 ## Brief
 
@@ -26,8 +19,6 @@ Goals are a great way to help us set a challenge that we want to push ourselves 
 To get started with goals, you need to have them. If you don’t already have some, take some time to think about it, but ultimately, these will be your public goals.
 
 Create a list of goals and put them on your website.
-
-<LoginRequired>
 
 ## Level 2
 
@@ -41,42 +32,4 @@ Showing your goals is a great first step, but people want to know how you’re d
 
 Add a field to Airtable that tracks progress of each goal and show that progress status on your website.
 
-</LoginRequired>
 
-</ProjectContent>
-
-<ProjectSidebar>
-
-## To Do
-
-<Checklist checkable={false} items={[
-  {
-    label: 'Create goals',
-  },
-  {
-    label: 'Add goals to website',
-  },
-  {
-    label: 'Copy goals to Airtable',
-  },
-  {
-    label: 'Request goals with API',
-  },
-  {
-    label: 'Display goals dynamically',
-  },
-  {
-    label: 'Add progress field(s)',
-  },
-  {
-    label: 'Show progress in UI',
-  }
-]} />
-
-## Toolbox
-- Airtable
-
-## Resources
-- [bit.ly/30d2vVV](https://bit.ly/30d2vVV)
-
-</ProjectSidebar>

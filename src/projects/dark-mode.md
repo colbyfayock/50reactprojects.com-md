@@ -6,16 +6,9 @@ description: 'Add an option to toggle between dark mode and light mode on a webs
 ---
 
 
-
-<ProjectHeader>
-
 # Dark Mode
 
 Add an option to toggle between <strong className="color-blue">dark mode</strong> and <strong className="color-blue">light mode</strong> on a <strong className="color-purple">website</strong> or <strong className="color-purple">app</strong>.
-
-</ProjectHeader>
-
-<ProjectContent>
 
 ## Brief
 
@@ -26,8 +19,6 @@ People have different reading preferences. Whether it’s because of the time of
 A good way of adding light mode or dark mode is to have a button that lets someone toggle back and forth between the mode. Once changed, the colors of the page should change to match that person’s preference.
 
 Add a toggle that allows a person to switch between light mode and dark mode that changes the color scheme.
-
-<LoginRequired>
 
 ## Level 2
 
@@ -41,39 +32,4 @@ Having a light mode and dark mode is helpful for enhancing someone’s experienc
 
 Add another color scheme that can be used as a style mode.
 
-</LoginRequired>
 
-</ProjectContent>
-
-<ProjectSidebar>
-
-## To Do
-
-<Checklist checkable={false} items={[
-  {
-    label: 'Create light mode styles',
-  },
-  {
-    label: 'Create dark mode styles',
-  },
-  {
-    label: 'Add a button to set styles',
-  },
-  {
-    label: 'Store style preference',
-  },
-  {
-    label: 'Create a new color style',
-  },
-  {
-    label: 'Add new style option',
-  }
-]} />
-
-## Toolbox
-- localStorage
-
-## Resources
-- [bit.ly/30OZrhN](https://bit.ly/30OZrhN)
-
-</ProjectSidebar>

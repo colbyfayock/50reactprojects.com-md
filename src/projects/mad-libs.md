@@ -6,16 +6,9 @@ description: 'Create a mad libs game with templates to add words to phrases.'
 ---
 
 
-
-<ProjectHeader>
-
 # Mad Libs
 
 Create a <strong className="color-blue">mad libs</strong> game with templates to <strong className="color-purple">add words to phrases</strong>.
-
-</ProjectHeader>
-
-<ProjectContent>
 
 ## Brief
 
@@ -26,8 +19,6 @@ Mad Libs is a game created in the 1950’s where you have a story or phrase that
 The basis of Mad Libs is having the story to start off with. With the story, we can replace some words with empty spots for the player to fill in.
 
 Create a story template with select words replaced with text inputs that specify a category of word to add.
-
-<LoginRequired>
 
 ## Level 2
 
@@ -41,45 +32,4 @@ The fun with Mad Libs comes when you can read the story out loud and hear how cr
 
 Add the ability to share a saved story with a link.
 
-</LoginRequired>
 
-</ProjectContent>
-
-<ProjectSidebar>
-
-## To Do
-
-<Checklist checkable={false} items={[
-  {
-    label: 'Create a story',
-  },
-  {
-    label: 'Remove key words',
-  },
-  {
-    label: 'Add text inputs',
-  },
-  {
-    label: 'Add word categories',
-  },
-  {
-    label: 'Add more stories',
-  },
-  {
-    label: 'Add save button',
-  },
-  {
-    label: 'Add reset button',
-  },
-  {
-    label: 'Add share button',
-  }
-]} />
-
-## Toolbox
-- Fillerama
-
-## Resources
-- [bit.ly/30YZojH](https://bit.ly/30YZojH)
-
-</ProjectSidebar>

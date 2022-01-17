@@ -6,16 +6,9 @@ description: 'Create a gallery of video tutorials that pulls from a React YouTub
 ---
 
 
-
-<ProjectHeader>
-
 # Video Gallery
 
 Create a gallery of <strong className="color-blue">video tutorials</strong> that pulls from a <strong className="color-purple">React YouTube playlist</strong>.
-
-</ProjectHeader>
-
-<ProjectContent>
 
 ## Brief
 
@@ -26,8 +19,6 @@ YouTube playlists are a great way to collect videos with a bigger theme whether 
 The great thing about YouTube, is they make it easy to embed their player. This lets us easily add a playlist to any page.
 
 Create a page that embeds a playlist using YouTube’s player.
-
-<LoginRequired>
 
 ## Level 2
 
@@ -41,40 +32,4 @@ Linking to YouTube helps let people easily watch a video, but that takes them aw
 
 Add an autoplaying embed of a video to the page when someone selects a video.
 
-</LoginRequired>
 
-</ProjectContent>
-
-<ProjectSidebar>
-
-## To Do
-
-<Checklist checkable={false} items={[
-  {
-    label: 'Find a playlist',
-  },
-  {
-    label: 'Copy embed code',
-  },
-  {
-    label: 'Embed on a page',
-  },
-  {
-    label: 'Fetch playlist with API',
-  },
-  {
-    label: 'List videos on page',
-  },
-  {
-    label: 'Embed video on click',
-  }
-]} />
-
-## Toolbox
-- YouTube API
-- react-youtube
-
-## Resources
-- [bit.ly/3g9DnFg](https://bit.ly/3g9DnFg)
-
-</ProjectSidebar>

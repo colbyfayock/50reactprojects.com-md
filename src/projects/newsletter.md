@@ -6,16 +6,9 @@ description: 'Create a personal newsletter and add a subscribe form to your webs
 ---
 
 
-
-<ProjectHeader>
-
 # Newsletter
 
 Create a <strong className="color-blue">personal newsletter</strong> and add a <strong className="color-purple">subscribe form</strong> to your website.
-
-</ProjectHeader>
-
-<ProjectContent>
 
 ## Brief
 
@@ -26,8 +19,6 @@ Email is a great way to communicate with others. Newsletters are a tool that let
 While you can create your own mail system, there are already a lot of great tools that you can use free like Converkit and Mailchimp. These tools let you set up your own subscriber list and send out emails to them all with an easy-to-use UI.
 
 Create an account with a newsletter service of your choice.
-
-<LoginRequired>
 
 ## Level 2
 
@@ -41,38 +32,4 @@ When sending a newsletter, services come with some default templates, but theyâ€
 
 Create a new template for your newsletter that you can use on your first email.
 
-</LoginRequired>
 
-</ProjectContent>
-
-<ProjectSidebar>
-
-## To Do
-
-<Checklist checkable={false} items={[
-  {
-    label: 'Pick a newsletter service',
-  },
-  {
-    label: 'Create an account',
-  },
-  {
-    label: 'Create signup form',
-  },
-  {
-    label: 'Add signup form to page',
-  },
-  {
-    label: 'Create email template',
-  }
-]} />
-
-## Toolbox
-- Convertkit
-- Mailchimp
-- gatsby-plugin-mailchimp
-
-## Resources
-- [bit.ly/2PlxyZw](https://bit.ly/2PlxyZw)
-
-</ProjectSidebar>

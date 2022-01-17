@@ -6,16 +6,9 @@ description: 'Create a ticketing system that allows you to create and manage pro
 ---
 
 
-
-<ProjectHeader>
-
 # Project Tracker
 
 Create a <strong className="color-blue">ticketing system</strong> that allows you to create and manage <strong className="color-purple">project issues</strong>.
-
-</ProjectHeader>
-
-<ProjectContent>
 
 ## Brief
 
@@ -26,8 +19,6 @@ Project development can be tough to keep track of, especially when working on a 
 The first step of keeping track of work is to be able to create new tickets and easily view them somewhere.
 
 Create an interface that you can submit a new task to be completed for a project and view all tasks in a list.
-
-<LoginRequired>
 
 ## Level 2
 
@@ -41,48 +32,4 @@ Depending on the complexity of the project, the task list can easily get huge an
 
 Add the ability to tag each task with a category and view only the tasks of each category.
 
-</LoginRequired>
 
-</ProjectContent>
-
-<ProjectSidebar>
-
-## To Do
-
-<Checklist checkable={false} items={[
-  {
-    label: 'Create an app',
-  },
-  {
-    label: 'Create UI to submit task',
-  },
-  {
-    label: 'Create database',
-  },
-  {
-    label: 'Add submit function',
-  },
-  {
-    label: 'Add view all function',
-  },
-  {
-    label: 'Add description field',
-  },
-  {
-    label: 'Add acceptance criteria',
-  },
-  {
-    label: 'Add categories',
-  },
-  {
-    label: 'Add ability to tag tickets',
-  }
-]} />
-
-## Toolbox
-- MongoDB
-
-## Resources
-- [bit.ly/2XpuFv1](https://bit.ly/2XpuFv1)
-
-</ProjectSidebar>

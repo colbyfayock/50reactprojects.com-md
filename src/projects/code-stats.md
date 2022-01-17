@@ -6,16 +6,9 @@ description: 'Add your GitHub profile’s top projects and stats to a website.'
 ---
 
 
-
-<ProjectHeader>
-
 # Code Stats
 
 Add your <strong className="color-blue">GitHub</strong> profile’s <strong className="color-purple">top projects</strong> and <strong className="color-purple">stats</strong> to a website.
-
-</ProjectHeader>
-
-<ProjectContent>
 
 ## Brief
 
@@ -26,8 +19,6 @@ Working on Open Source is a great way to give back to the community, but it’s 
 One way to show this is by adding a list of your top projects. This helps show what type of high level projects you’ve helped contribute to or maybe a popular one you made.
 
 Add a list of your top projects on Github to a website with the number of stars using the Github API.
-
-<LoginRequired>
 
 ## Level 2
 
@@ -41,41 +32,4 @@ There are also some other fun stats that you can find, like the all time number 
 
 Add some fun code stats like how many commits you’ve pushed to Github.
 
-</LoginRequired>
 
-</ProjectContent>
-
-<ProjectSidebar>
-
-## To Do
-
-<Checklist checkable={false} items={[
-  {
-    label: 'Discover Github API',
-  },
-  {
-    label: 'Add top projects',
-  },
-  {
-    label: 'Add number of stars',
-  },
-  {
-    label: 'Add common languages',
-  },
-  {
-    label: 'Sort project languages',
-  },
-  {
-    label: 'Add code stats',
-  }
-]} />
-
-## Toolbox
-- Github REST API
-- Github GraphQL API
-- Postman
-
-## Resources
-- [bit.ly/2XBDdPN](https://bit.ly/2XBDdPN)
-
-</ProjectSidebar>

@@ -6,16 +6,9 @@ description: 'Create a card game that matches words and phrases to fill-in-the-b
 ---
 
 
-
-<ProjectHeader>
-
 # Apples to Apples
 
 Create a <strong className="color-blue">card game</strong> that matches words and phrases to <strong className="color-purple">fill-in-the-blank statements</strong>.
-
-</ProjectHeader>
-
-<ProjectContent>
 
 ## Brief
 
@@ -26,8 +19,6 @@ Apples to Apples describes itself as “a party game for horrible people”. The
 The game revolves around the deck of cards with two types. In order to play, we’ll want the ability to choose between two different types.
 
 Create a deck of cards with the two card types that allow you to cycle through the different options.
-
-<LoginRequired>
 
 ## Level 2
 
@@ -41,37 +32,4 @@ Part of the fun with Apples to Apples is the funny phrases that end up coming up
 
 Add the ability to save funny matches to someone’s device or share them on social media.
 
-</LoginRequired>
 
-</ProjectContent>
-
-<ProjectSidebar>
-
-## To Do
-
-<Checklist checkable={false} items={[
-  {
-    label: 'Create 2 decks of cards',
-  },
-  {
-    label: 'Add ability to cycle cards',
-  },
-  {
-    label: 'Add card assigning',
-  },
-  {
-    label: 'Add card match saving',
-  },
-  {
-    label: 'Add card match sharing',
-  }
-]} />
-
-## Toolbox
-
--
-
-## Resources
-- [bit.ly/3kpEKlJ](https://bit.ly/3kpEKlJ)
-
-</ProjectSidebar>

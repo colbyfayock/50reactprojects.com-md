@@ -6,16 +6,9 @@ description: 'Create a custom hook that allows you to fetch the movies from the 
 ---
 
 
-
-<ProjectHeader>
-
 # Custom Hook
 
 Create a <strong className="color-blue">custom hook</strong> that allows you to fetch the <strong className="color-purple">movies</strong> from the <strong className="color-purple">Lord of the Rings API</strong>.
-
-</ProjectHeader>
-
-<ProjectContent>
 
 ## Brief
 
@@ -27,8 +20,6 @@ To build a custom hook, the first thing you need is a file that exports a custom
 
 With the skeleton of a hook, the main purpose will be to fetch data from the API. Set up a request mechanism using the browser fetch API or your favorite request library.
 
-<LoginRequired>
-
 ## Level 2
 
 Part of a good request API is the ability to understand where the request is at during each part of its lifecycle. This includes stages like: loading, success, and failed.
@@ -39,37 +30,4 @@ Using React state, configure a variable that you can return from the custom hook
 
 Ultimately a custom hook is created to be used. Publish the new hook to npm (npmjs.com) and set up a new project using the custom hook package. For an advanced feature, add the ability for people to review each movie!
 
-</LoginRequired>
 
-</ProjectContent>
-
-<ProjectSidebar>
-
-## To Do
-
-<Checklist checkable={false} items={[
-  {
-    label: 'Create a new hook',
-  },
-  {
-    label: 'Create a new request',
-  },
-  {
-    label: 'Create request states',
-  },
-  {
-    label: 'Publish to npm',
-  },
-  {
-    label: 'Create an example',
-  }
-]} />
-
-## Toolbox
-- Lord of the Rings API
-- useCustomHook
-
-## Resources
-- [bit.ly/3jCnCbU](https://bit.ly/3jCnCbU)
-
-</ProjectSidebar>

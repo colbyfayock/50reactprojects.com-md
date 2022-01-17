@@ -6,16 +6,9 @@ description: 'Create a Gatsby theme that sets up a project with the Tailwind CSS
 ---
 
 
-
-<ProjectHeader>
-
 # Framework Theme
 
 Create a <strong className="color-blue">Gatsby theme</strong> that sets up a project with the <strong className="color-purple">Tailwind CSS framework</strong>.
-
-</ProjectHeader>
-
-<ProjectContent>
 
 ## Brief
 
@@ -26,8 +19,6 @@ As developers, we commonly have to do a bunch of similar steps any time we creat
 Gatsby themes are a plugin-like system where we can take advantage of the Gatsby pipeline to share functionality as a package on npm. This opens the door to really doing anything we would do in a Gatsby site, but making it reusable to any Gatsby site.
 
 Create a new Gatsby theme that when used, creates a new a style guide page on any project it’s added to.
-
-<LoginRequired>
 
 ## Level 2
 
@@ -41,43 +32,4 @@ Sometimes themes are better only the tools, sometimes it’s helpful to be opini
 
 Create resuable React components using the CSS framework that can be used in the project the theme’s added to.
 
-</LoginRequired>
 
-</ProjectContent>
-
-<ProjectSidebar>
-
-## To Do
-
-<Checklist checkable={false} items={[
-  {
-    label: 'Create a new theme',
-  },
-  {
-    label: 'Add to example project',
-  },
-  {
-    label: 'Create new style page',
-  },
-  {
-    label: 'Add CSS framework',
-  },
-  {
-    label: 'Use CSS in example',
-  },
-  {
-    label: 'Create components',
-  },
-  {
-    label: 'Use components',
-  }
-]} />
-
-## Toolbox
-- Gatsby Themes
-- Tailwind
-
-## Resources
-- [bit.ly/316o9dE](https://bit.ly/316o9dE)
-
-</ProjectSidebar>

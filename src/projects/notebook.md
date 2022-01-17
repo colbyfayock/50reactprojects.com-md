@@ -6,16 +6,9 @@ description: 'Create a notebook app to add, manage, and organize a group of note
 ---
 
 
-
-<ProjectHeader>
-
 # Notebook
 
 Create a <strong className="color-blue">notebook app</strong> to add, manage, and organize a <strong className="color-purple">group of notes</strong>.
-
-</ProjectHeader>
-
-<ProjectContent>
 
 ## Brief
 
@@ -26,8 +19,6 @@ Taking notes is a great way to make sure we keep track of our thoughts or rememb
 The first requirement of a notebook is being able to take the notes. This can be pretty simple to start, where really you need some sort of input that collects what you write and stores it somewhere for later.
 
 Create form to add new notes and view them in a list.
-
-<LoginRequired>
 
 ## Level 2
 
@@ -41,40 +32,4 @@ Whether we realize it or not, we can find connections between our thoughts and m
 
 Add Roam Research-inpsired linking of notes to create a network of thoughts.
 
-</LoginRequired>
 
-</ProjectContent>
-
-<ProjectSidebar>
-
-## To Do
-
-<Checklist checkable={false} items={[
-  {
-    label: 'Create a form',
-  },
-  {
-    label: 'Store new notes',
-  },
-  {
-    label: 'List notes',
-  },
-  {
-    label: 'Add tags or categories',
-  },
-  {
-    label: 'Add note search',
-  },
-  {
-    label: 'Add note network',
-  }
-]} />
-
-## Toolbox
-- Gatsby Brain
-- Fuse.js
-
-## Resources
-- [bit.ly/31wI45V](https://bit.ly/31wI45V)
-
-</ProjectSidebar>

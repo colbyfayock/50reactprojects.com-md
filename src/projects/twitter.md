@@ -6,16 +6,9 @@ description: 'Create a Twitter clone that lets user accounts post public message
 ---
 
 
-
-<ProjectHeader>
-
 # Twitter
 
 Create a <strong className="color-blue">Twitter</strong> clone that lets user accounts <strong className="color-purple">post public messages</strong>.
-
-</ProjectHeader>
-
-<ProjectContent>
 
 ## Brief
 
@@ -26,8 +19,6 @@ Twitter is one of a few social media giants that have captivated the world. Ever
 The main differentiator is Twitter is made up of a bunch of short messages that represent someone’s expression at a moment in time.
 
 Create a page of short messages that you can dynmically add new content with a database.
-
-<LoginRequired>
 
 ## Level 2
 
@@ -41,51 +32,4 @@ Your messages are getting pretty lively, but you’re sending them out all by yo
 
 Add the ability to create new accounts allowing others to post messages to their own page.
 
-</LoginRequired>
 
-</ProjectContent>
-
-<ProjectSidebar>
-
-## To Do
-
-<Checklist checkable={false} items={[
-  {
-    label: 'Create page of messages',
-  },
-  {
-    label: 'Create database',
-  },
-  {
-    label: 'Store content in database',
-  },
-  {
-    label: 'Request content from DB',
-  },
-  {
-    label: 'Create message form',
-  },
-  {
-    label: 'Add new messages to DB',
-  },
-  {
-    label: 'Add authentication',
-  },
-  {
-    label: 'Require account login',
-  },
-  {
-    label: 'Add create account form',
-  },
-  {
-    label: 'Create new accounts',
-  }
-]} />
-
-## Toolbox
-- Firebase
-
-## Resources
-- [bit.ly/3jX5LNk](https://bit.ly/3jX5LNk)
-
-</ProjectSidebar>

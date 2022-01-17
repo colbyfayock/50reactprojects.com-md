@@ -6,16 +6,9 @@ description: 'Create a mood board to upload images and add notes for project ins
 ---
 
 
-
-<ProjectHeader>
-
 # Mood Board
 
 Create a <strong className="color-blue">mood board</strong> to upload images and add notes for <strong className="color-purple">project inspiration</strong>.
-
-</ProjectHeader>
-
-<ProjectContent>
 
 ## Brief
 
@@ -26,8 +19,6 @@ Gathering inspiration for a project can get messy if you’re just using a folde
 Mood boards are generally made up of the ability to add a bunch of images in one place. Kind of like creating your own Pinterest board, but more focused.
 
 Create a webpage that has a gallery of images.
-
-<LoginRequired>
 
 ## Level 2
 
@@ -41,43 +32,4 @@ Every time we want to add an image or a note, we don’t want to have to manuall
 
 Add a content management system to manage the images and notes. Bonus: add the ability to rearrange each item.
 
-</LoginRequired>
 
-</ProjectContent>
-
-<ProjectSidebar>
-
-## To Do
-
-<Checklist checkable={false} items={[
-  {
-    label: 'Create webpage',
-  },
-  {
-    label: 'Add gallery of images',
-  },
-  {
-    label: 'Add image notes',
-  },
-  {
-    label: 'Add page notes',
-  },
-  {
-    label: 'Set up CMS',
-  },
-  {
-    label: 'Migrate content to CMS',
-  },
-  {
-    label: 'Integrate CMS',
-  }
-]} />
-
-## Toolbox
-- Cloudinary
-- use-cloudinary
-
-## Resources
-- [bit.ly/30Ub07C](https://bit.ly/30Ub07C)
-
-</ProjectSidebar>

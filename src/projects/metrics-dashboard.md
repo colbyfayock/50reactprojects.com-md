@@ -6,16 +6,9 @@ description: 'Create an analytics dashboard that shows historical performance of
 ---
 
 
-
-<ProjectHeader>
-
 # Metrics Dashboard
 
 Create an <strong className="color-blue">analytics dashboard</strong> that shows <strong className="color-purple">historical performance</strong> of <strong className="color-purple">tech stocks</strong>.
-
-</ProjectHeader>
-
-<ProjectContent>
 
 ## Brief
 
@@ -26,8 +19,6 @@ Stocks are all about investment and understanding the performance of your invest
 To understand the performance, you need the to see the data that shows how well a particular stock is doing.
 
 Create a table that shows historical data of several tech stocks.
-
-<LoginRequired>
 
 ## Level 2
 
@@ -41,43 +32,4 @@ Even though the charts are great for a high level view, being able to “drill d
 
 Link each chart to a page that provides raw, in depth data for that performance indicator.
 
-</LoginRequired>
 
-</ProjectContent>
-
-<ProjectSidebar>
-
-## To Do
-
-<Checklist checkable={false} items={[
-  {
-    label: 'Choose tech stocks',
-  },
-  {
-    label: 'Request stock data',
-  },
-  {
-    label: 'Add data to table',
-  },
-  {
-    label: 'Add charts for data',
-  },
-  {
-    label: 'Add dashboard of charts',
-  },
-  {
-    label: 'Add pages for charts',
-  },
-  {
-    label: 'Add raw data for charts',
-  }
-]} />
-
-## Toolbox
-- Chart.js
-- Marketstack
-
-## Resources
-- [bit.ly/2WYSDNt](https://bit.ly/2WYSDNt)
-
-</ProjectSidebar>

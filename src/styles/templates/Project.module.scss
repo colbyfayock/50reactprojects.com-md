@@ -2,10 +2,14 @@
 
 .project {
 
+  h1 {
+    font-size: 3em;
+  }
+
   h2 {
 
     color: white;
-    background-color: $color-gray-medium;
+    background-color: $color-purple;
     padding: .3em .5em;
     margin: 2em -.6rem 1em;
 

@@ -6,16 +6,9 @@ description: 'Create a Product Hunt clone that lets people post a new product wi
 ---
 
 
-
-<ProjectHeader>
-
 # Product Hunt
 
 Create a <strong className="color-blue">Product Hunt</strong> clone that lets people <strong className="color-purple">post a new product with ratings</strong>.
-
-</ProjectHeader>
-
-<ProjectContent>
 
 ## Brief
 
@@ -26,8 +19,6 @@ We all live for products whether it’s our mobile phones or the apps we use on 
 The most important part about learning about new products is the product itself. We want to know what the product is, what it looks like, and how it works.
 
 Create a page that lets you add a new product to a website with a title, picture,  and description.
-
-<LoginRequired>
 
 ## Level 2
 
@@ -41,51 +32,4 @@ People love products, so there are tons of them in the world. There are way too 
 
 Add the ability to search products and browse by category.
 
-</LoginRequired>
 
-</ProjectContent>
-
-<ProjectSidebar>
-
-## To Do
-
-<Checklist checkable={false} items={[
-  {
-    label: 'Create product website',
-  },
-  {
-    label: 'Create database',
-  },
-  {
-    label: 'Add product form',
-  },
-  {
-    label: 'Add product to database',
-  },
-  {
-    label: 'Request product for page',
-  },
-  {
-    label: 'Add review form',
-  },
-  {
-    label: 'Add reviews to database',
-  },
-  {
-    label: 'Add reviews to product',
-  },
-  {
-    label: 'Add product search',
-  },
-  {
-    label: 'Add product categories',
-  }
-]} />
-
-## Toolbox
-- Hasura
-
-## Resources
-- [bit.ly/2XfvOoW](https://bit.ly/2XfvOoW)
-
-</ProjectSidebar>

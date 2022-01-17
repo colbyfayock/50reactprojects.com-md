@@ -6,16 +6,9 @@ description: 'Create a mapping app that shows the route of a road trip across th
 ---
 
 
-
-<ProjectHeader>
-
 # Road Trip Map
 
 Create a <strong className="color-blue">mapping app</strong> that shows the route of a <strong className="color-purple">road trip</strong> across the <strong className="color-purple">country</strong>.
-
-</ProjectHeader>
-
-<ProjectContent>
 
 ## Brief
 
@@ -26,8 +19,6 @@ Road trips are a lot of fun, but it’s hard to visualize exactly the route you 
 Using a custom map is a great way to show the route of a trip with the benefit of being able to customize it any way you want.
 
 Create a mapping app that shows the route of a road trip.
-
-<LoginRequired>
 
 ## Level 2
 
@@ -41,48 +32,4 @@ The map has a lot of cool destinations that make out to be a fun road trip, but 
 
 Add pictures to each destination from your trip or pictures of places you want to visit.
 
-</LoginRequired>
 
-</ProjectContent>
-
-<ProjectSidebar>
-
-## To Do
-
-<Checklist checkable={false} items={[
-  {
-    label: 'Create a map',
-  },
-  {
-    label: 'Create location data',
-  },
-  {
-    label: 'Add route to map',
-  },
-  {
-    label: 'Add destination stops',
-  },
-  {
-    label: 'Add stop details',
-  },
-  {
-    label: 'Add pictures from stops',
-  },
-  {
-    label: 'Add personal pictures',
-  },
-  {
-    label: 'Customize map styles',
-  }
-]} />
-
-## Toolbox
-- Leaflet
-- React Leaflet
-- Gatsby Leaflet Starter
-- Mapbox Studio
-
-## Resources
-- [bit.ly/2CQ69MS](https://bit.ly/2CQ69MS)
-
-</ProjectSidebar>

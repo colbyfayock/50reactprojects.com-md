@@ -6,16 +6,9 @@ description: 'Create a Tesla touchscreen UI clone that allows someone to control
 ---
 
 
-
-<ProjectHeader>
-
 # Tesla Touchscreen
 
 Create a <strong className="color-blue">Tesla touchscreen UI</strong> clone that allows someone to <strong className="color-purple">control simulated car features</strong>.
-
-</ProjectHeader>
-
-<ProjectContent>
 
 ## Brief
 
@@ -26,8 +19,6 @@ There are a lot of features bundled with a Tesla that make people excited, but o
 Part of what makes an app-like experience is the ability to easily change between different screens providing different context. While we might be using our map’s navigation, we may want to switch to our car’s settings panel or browse around for music (when the car is stopped of course).
 
 Add a tabbed interface that allows someone to navigate between different screens.
-
-<LoginRequired>
 
 ## Level 2
 
@@ -41,45 +32,4 @@ Most people like to listen to something when they’re in the car. Some like mus
 
 Add an audio player screen to play music.
 
-</LoginRequired>
 
-</ProjectContent>
-
-<ProjectSidebar>
-
-## To Do
-
-<Checklist checkable={false} items={[
-  {
-    label: 'Create an app',
-  },
-  {
-    label: 'Create tabbed screens',
-  },
-  {
-    label: 'Add map screen',
-  },
-  {
-    label: 'Add map',
-  },
-  {
-    label: 'Add points of interest',
-  },
-  {
-    label: 'Add audio screen',
-  },
-  {
-    label: 'Add web player',
-  }
-]} />
-
-## Toolbox
-- react-tabs
-- Spotify API
-- Leaflet
-- React Leaflet
-
-## Resources
-- [bit.ly/31zHPam](https://bit.ly/31zHPam)
-
-</ProjectSidebar>

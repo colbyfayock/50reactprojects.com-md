@@ -6,16 +6,9 @@ description: 'Create a StackOverflow clone allowing questions and answers with c
 ---
 
 
-
-<ProjectHeader>
-
 # StackOverflow
 
 Create a <strong className="color-blue">StackOverflow</strong> clone allowing <strong className="color-purple">questions and answers</strong> with code snippets.
-
-</ProjectHeader>
-
-<ProjectContent>
 
 ## Brief
 
@@ -26,8 +19,6 @@ StackOverflow is developer gold in that it’s an endless source of development 
 Question and answer websites begin with a single thing — a question. This question is what opens up the door for others to help you solve your problem.
 
 Add a form that creates a new question with a page and categorizes it with tags.
-
-<LoginRequired>
 
 ## Level 2
 
@@ -41,45 +32,4 @@ Not all answers are the same. Some people might be genuinely trying to help, som
 
 Add up and down arrows that allow people to upvote and downvote answers.
 
-</LoginRequired>
 
-</ProjectContent>
-
-<ProjectSidebar>
-
-## To Do
-
-<Checklist checkable={false} items={[
-  {
-    label: 'Create database',
-  },
-  {
-    label: 'Create a question form',
-  },
-  {
-    label: 'Submit form to database ',
-  },
-  {
-    label: 'Create question page',
-  },
-  {
-    label: 'Add question categories',
-  },
-  {
-    label: 'Add answer form',
-  },
-  {
-    label: 'Submit form to database',
-  },
-  {
-    label: 'Add answer voting',
-  }
-]} />
-
-## Toolbox
-- Dgraph
-
-## Resources
-- [bit.ly/2DhwKlI](https://bit.ly/2DhwKlI)
-
-</ProjectSidebar>

@@ -6,16 +6,9 @@ description: 'Create a website with your work experience that can be used as a r
 ---
 
 
-
-<ProjectHeader>
-
 # Resume / CV Website
 
 Create a <strong className="color-blue">website</strong> with your <strong className="color-blue">work experience</strong> that can be used as a <strong className="color-purple">resume</strong> or <strong className="color-purple">CV</strong>.
-
-</ProjectHeader>
-
-<ProjectContent>
 
 ## Brief
 
@@ -26,8 +19,6 @@ Youâ€™re looking for a new job in the tech world. Every company  asks for a resu
 The most important information on a resume is your contact information, skills, and work experience or education.
 
 Create a new website that provides a way for a potential employer to contact you and a list of all of your skills and relevant experience.
-
-<LoginRequired>
 
 ## Level 2
 
@@ -43,45 +34,4 @@ Update your resume website to include links to GitHub projects to show what youâ
 
 Bonus: make it automatically update sorted by star count.
 
-</LoginRequired>
 
-</ProjectContent>
-
-<ProjectSidebar>
-
-## To Do
-
-<Checklist checkable={false} items={[
-  {
-    label: 'Create a new website',
-  },
-  {
-    label: 'Add contact information',
-  },
-  {
-    label: 'Add work experience',
-  },
-  {
-    label: 'Add education',
-  },
-  {
-    label: 'Add social links',
-  },
-  {
-    label: 'Add personality',
-  },
-  {
-    label: 'Add GitHub projects',
-  },
-  {
-    label: 'Automate GitHub sort',
-  }
-]} />
-
-## Toolbox
-- GitHub Actions
-
-## Resources
-- [bit.ly/39rcF8s](https://bit.ly/39rcF8s)
-
-</ProjectSidebar>

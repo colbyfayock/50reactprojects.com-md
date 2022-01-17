@@ -6,16 +6,9 @@ description: 'Create a Winamp clone that uses the Spotify API to play music.'
 ---
 
 
-
-<ProjectHeader>
-
 # Winamp
 
 Create a <strong className="color-blue">Winamp</strong> clone that uses the <strong className="color-purple">Spotify API</strong> to <strong className="color-purple">play music</strong>.
-
-</ProjectHeader>
-
-<ProjectContent>
 
 ## Brief
 
@@ -26,8 +19,6 @@ Winamp was a well-liked media player that allowed you to play your music in an e
 The core feature of Winamp is that it played music. Today’s music is more commonly streamed from services, so we can use Spotify as our music service.
 
 Create a music player using the Spotify API that plays a single song from your library.
-
-<LoginRequired>
 
 ## Level 2
 
@@ -41,39 +32,4 @@ Another bit of nostolgia was that Winamp provided some interesting visualization
 
 Create some generative visualizations utilizing the audio of the song being played.
 
-</LoginRequired>
 
-</ProjectContent>
-
-<ProjectSidebar>
-
-## To Do
-
-<Checklist checkable={false} items={[
-  {
-    label: 'Create music player UI',
-  },
-  {
-    label: 'Add Spotify login',
-  },
-  {
-    label: 'Add Spotify playback',
-  },
-  {
-    label: 'Add playlist viewing',
-  },
-  {
-    label: 'Add play from playlist',
-  },
-  {
-    label: 'Add audio visualizations',
-  }
-]} />
-
-## Toolbox
-- Spotify API
-
-## Resources
-- [bit.ly/3fggazU](https://bit.ly/3fggazU)
-
-</ProjectSidebar>

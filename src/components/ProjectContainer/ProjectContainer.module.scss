@@ -1,10 +1,4 @@
 @import "styles/util/__util";
 
 .projectContainer {
-
-  @include gtXlarge() {
-    display: flex;
-    flex-wrap: wrap;
-  }
-
 }
