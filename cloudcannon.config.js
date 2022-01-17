@@ -3,7 +3,7 @@ module.exports = {
     projects: {
       path: 'src/projects',
       parser: 'front-matter',
-      url: '/projects/[slug]/',
+      url: '/projects/[slug]',
       output: true,
       name: 'Projects',
     }
